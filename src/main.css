@@ -1,0 +1,6 @@
+@font-face {
+	font-family: "GR Milesons";
+	src: url("./fonts/GR_Milesons.woff") format("woff"),
+		url("./fonts/GR_Milesons.otf") format("opentype"),
+		url("./fonts/GR_Milesons.ttf") format("truetype");
+}
