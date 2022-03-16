@@ -69,7 +69,7 @@ export default function Countdown() {
 			<Box py='3' textAlign='center'>
 				{timerComponents.length ? (
 					<Box>
-						<Heading fontSize='10' color='blue.400'>
+						<Heading fontSize='sm' color='blue.400'>
 							HOLD TIGHT!
 						</Heading>
 						<Heading size='lg'>{timerComponents}</Heading>

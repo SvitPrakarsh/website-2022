@@ -6,7 +6,7 @@ const Home = () => {
 	return (
 		<>
 			<Box
-				bgImg='url(/assets/patterns.svg)'
+				bgImg='url(/src/assets/patterns.svg)'
 				bgPos='center'
 				bgSize='contain'
 			>
