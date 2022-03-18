@@ -62,7 +62,7 @@ export default function Nav() {
 				/>
 
 				<Heading size='md'>
-					6-8 May
+					6-7 April
 					<Text as='span' color='brand.red'>
 						&nbsp;&rsquo;22
 					</Text>
