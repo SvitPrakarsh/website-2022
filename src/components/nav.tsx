@@ -41,7 +41,7 @@ export default function Nav() {
 		<MotionBox
 			as='nav'
 			bg='transparent'
-			backdropFilter={isTransparent ? undefined : "blur(5px)"}
+			backdropFilter={isTransparent ? undefined : "blur(10px)"}
 			px='4'
 			transition='0.3s'
 			py='3'

@@ -24,10 +24,10 @@ export default function Hero() {
 					</Text>
 				</Heading>
 
+				<Countdown />
 				<Text color='brand.red' fontSize='lg' fontWeight='700'>
 					Coming Soon
 				</Text>
-				<Countdown />
 			</Container>
 		</Box>
 	);

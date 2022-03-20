@@ -1,4 +1,14 @@
-import { Box, Container, Heading, Text, VStack } from "@chakra-ui/react";
+import {
+	AspectRatio,
+	Box,
+	Container,
+	Flex,
+	Heading,
+	Image,
+	SimpleGrid,
+	Text,
+	VStack,
+} from "@chakra-ui/react";
 import Hero from "../components/hero";
 import Nav from "../components/nav";
 
@@ -26,7 +36,7 @@ const Home = () => {
 						Prakarsh
 						{/* </Text> */}
 					</Heading>
-					<Text fontSize='md'>
+					<Text>
 						PRAKARSH, a National Level Technical Symposium to bring
 						together the best brains in the country and give them a
 						chance to showcase their skills and talents. This will
@@ -37,35 +47,17 @@ const Home = () => {
 					</Text>
 				</Container>
 			</Box>
-			{/* <Container maxW='container.xl'>
-				<Flex justify='center'>
-					<Box
-						bg='red.200'
-						p='4'
-						rounded='md'
-						borderEndColor='red.800'
-						borderEndWidth='2px'
-						borderEndStyle='dashed'
-					>
-						<AspectRatio maxW='600px' ratio={3 / 4}>
-							<Image
-								src='https://picsum.photos/200'
-								h='full'
-								w='auto'
-								objectFit='cover'
-							/>
-						</AspectRatio>
-					</Box>
-					<Box bg='red.200' p='4' rounded='md'>
-						adfk
-					</Box>
-				</Flex>
+			<Container maxW='container.xl' py='16'>
+				<Heading textAlign='center'>The Events</Heading>
+				<Text textAlign='center' mb='12'>
+					Come join the thrill, bring your friend too.
+				</Text>
 			</Container>
 			<SimpleGrid
 				columns={[1, 2, 3]}
 				spacing={5}
 				pr={[10, 1, 0]}
-			></SimpleGrid> */}
+			></SimpleGrid>
 		</>
 	);
 };

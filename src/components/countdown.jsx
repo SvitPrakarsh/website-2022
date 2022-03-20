@@ -51,17 +51,23 @@ export default function Countdown() {
 		}
 
 		// console.log(index);
-
 		if (index === 3) {
 			timerComponents.push(<span>{timeLeft[interval]}</span>);
 			return;
 		}
-
-		timerComponents.push(
-			<span>
-				{timeLeft[interval]} {": "}
-			</span>
-		);
+		if (timeLeft[interval] < 10) {
+			timerComponents.push(
+				<span>
+					0{timeLeft[interval]}&nbsp;{": "}
+				</span>
+			);
+		} else {
+			timerComponents.push(
+				<span>
+					{timeLeft[interval]}&nbsp;{": "}
+				</span>
+			);
+		}
 	});
 
 	return (
@@ -79,8 +85,8 @@ export default function Countdown() {
 							color='red.200'
 							mb={5}
 						>
-							&nbsp;&nbsp;DAYS &nbsp;&nbsp;HRS &nbsp;&nbsp; MINS
-							&nbsp;&nbsp; SECS
+							DAYS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HRS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MINS
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SECS
 						</Heading>
 					</Box>
 				) : (
