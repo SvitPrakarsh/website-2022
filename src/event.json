@@ -249,6 +249,101 @@
         ]
     },
     {
+        "id": 4,
+        "category_name": "Wheels and wings",
+        "icon": "",
+        "events": [
+            {
+                "id": 1,
+                "title": "Tech intellect",
+                "tag": "",
+                "price": null,
+                "team_size": 1,
+                "contact_person": "Yashaswi Makwana",
+                "contact_number": 9586840317,
+                "rounds": [
+                    {
+                        "id": 1,
+                        "title": "Blitz the Quiz",
+                        "description": "A paper-based quiz based on GK and basic science"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Technical snake and ladder",
+                        "description": "Similar to snake and ladder, instead of a ladder, there will be a riddle. Participants will form a group of 2 And the winner will be sent in the next round"
+                    },
+                    {
+                        "id": 3,
+                        "title": "Buckle Up",
+                        "description": "In this round participants will have to find the parts of the aircraft from the clues and assemble the aircraft"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Robo the yantra",
+                "tag": "Get Yourself Ready with The Winning Mantra For “ROBOTHE YANTRA”",
+                "price": null,
+                "team_size": "3-4",
+                "contact_person": "Yashaswi Makwana",
+                "contact_number": 9586840317,
+                "rounds": [
+                    {
+                        "id": 1,
+                        "title": "ROBO RACING",
+                        "description": null
+                    },
+                    {
+                        "id": 2,
+                        "title": "TICK TOCK ROUND",
+                        "description": "Participants have to complete the given track in minimum time of period and have to overcome given obstacles, Obstacles is anything like slope, any material on the ground"
+                    },
+                    {
+                        "id": 3,
+                        "title": "ROBO BALLING",
+                        "description": "Participants have to complete the given round within time limit. for winning this round participant have to Goal maximum numbers of Ball within time limit"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "THRUST-IT-UP",
+                "tag": "SOAR THE SKY WITH THE ROAR",
+                "price": null,
+                "team_size": "1-3",
+                "contact_person": "Yashaswi Makwana",
+                "contact_number": 9586840317,
+                "rounds": [
+                    {
+                        "id": 1,
+                        "title": "TECHQUEST",
+                        "description": "IT IS AN ONLINE BASED QUIZ  WHICH WOULD HAVE APPTITUTE QUESTIONS, INTELLIGENCE QUOTIENT AND  LOGICAL REASONING TYPE OF QUESTIONS"
+                    },
+                    {
+                        "id": 2,
+                        "title": "BUZZER-UP",
+                        "description": "THIS IS THE FUN BUZZER ROUND IN WHICH THE SELECTED PARTICIPANTS HAVE TO TAKE PART IN THE GROUPS OF 6 NO. OF PARTICIPANTS"
+                    },
+                    {
+                        "id": 3,
+                        "title": "BOOSTERZ",
+                        "description": "EACH TEAM WILL HAVE TO MAKE ROCKET WITH PROPER GUIDANCE PROVIDED BY OUR TECH TEAM"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Automated Guided Vehicle",
+                "tag": "A better replacement of human labour",
+                "price": null,
+                "team_size": "1",
+                "contact_person": "Yashaswi Makwana",
+                "contact_number": 9586840317,
+                "rounds": []
+            }
+        ]
+    },
+    {
         "id": 1,
         "category_name": "Workshop",
         "icon": "",
