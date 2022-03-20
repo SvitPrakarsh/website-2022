@@ -17,7 +17,7 @@ const Home = () => {
 	return (
 		<>
 			<Box
-				bgImg='url(/src/assets/patterns.svg)'
+				bgImg='url(/public/patterns.svg)'
 				bgPos='center'
 				bgSize='contain'
 			>
