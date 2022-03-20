@@ -1,0 +1,256 @@
+[
+    {
+        "id": 1,
+        "team_name": "Core Team",
+        "members": [
+            {
+                "id": 1,
+                "name": "Divyarajsinh Parmar",
+                "Post": "Chief Student Coordinator",
+                "img": ""
+            },
+            {
+                "id": 2,
+                "name": "Ishaan Joshi",
+                "Post": "Jt. Chief Student Coordinator",
+                "img": ""
+            },
+            {
+                "id": 3,
+                "name": "Jay Makawana",
+                "Post": "Jt. Chief Coordinator",
+                "img": ""
+            },
+            {
+                "id": 4,
+                "name": "Rudra Patel",
+                "Post": "Techinical Coordinator",
+                "img": ""
+            },
+            {
+                "id": 5,
+                "name": "Dishit Munjpara",
+                "Post": "Jt. Techinical Coordinator",
+                "img": ""
+            },
+            {
+                "id": 6,
+                "name": "Yashaswi Makwana",
+                "Post": "Jt. Techinical Coordinator",
+                "img": ""
+            },
+            {
+                "id": 7,
+                "name": "Kunjan Tailor",
+                "Post": "Promotion Coordinator",
+                "img": ""
+            },
+            {
+                "id": 8,
+                "name": "Het Shah",
+                "Post": "Jt. Promotion Coordinator",
+                "img": ""
+            },
+            {
+                "id": 9,
+                "name": "Dev Soni",
+                "Post": "Administrative Coordinator",
+                "img": ""
+            },
+            {
+                "id": 10,
+                "name": "Aesha Meghani",
+                "Post": "Jt. Administrative Coordinator",
+                "img": ""
+            },
+            {
+                "id": 11,
+                "name": "Mit Patel",
+                "Post": "Finance Coordinator",
+                "img": ""
+            },
+            {
+                "id": 12,
+                "name": "Parth Pandya",
+                "Post": "Jt. Finance Coordinator",
+                "img": ""
+            },
+            {
+                "id": 13,
+                "name": "Jay Patel",
+                "Post": "Web Coordinator",
+                "img": ""
+            },
+            {
+                "id": 14,
+                "name": "Vraj Shah",
+                "Post": "Jt. Web Coordinator",
+                "img": ""
+            },
+            {
+                "id": 15,
+                "name": "Vatsal Roy",
+                "Post": "Graphics Coordinator",
+                "img": ""
+            },
+            {
+                "id": 16,
+                "name": "Manan Nayak",
+                "Post": "Jt. Graphics Coordinator",
+                "img": ""
+            },
+            {
+                "id": 17,
+                "name": "Vishwa Parekh",
+                "Post": "Decoration Coordinator",
+                "img": ""
+            },
+            {
+                "id": 18,
+                "name": "Arth Gaudani",
+                "Post": "Non-tech Coordinator",
+                "img": ""
+            },
+            {
+                "id": 19,
+                "name": "Prakash Shukla",
+                "Post": "Jt. Non-tech Coordinator",
+                "img": ""
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "team_name": "Web Team",
+        "members": [
+            {
+                "id": 1,
+                "Name": "Jay patel",
+                "Post": "Head",
+                "img": ""
+            },
+            {
+                "id": 2,
+                "Name": "Vraj Shah",
+                "Post": "Co-Head",
+                "img": ""
+            },
+            {
+                "id": 3,
+                "Name": "Harsh Sachaniya",
+                "Post": "Developer",
+                "img": ""
+            },
+            {
+                "id": 4,
+                "Name": "Smit Patel",
+                "Post": "Developer",
+                "img": ""
+            },
+            {
+                "id": 7,
+                "Name": "Darshil Rathod",
+                "Post": "Developer",
+                "img": ""
+            },
+            {
+                "id": 5,
+                "Name": "Vivek Suthar",
+                "Post": "Developer",
+                "img": ""
+            },
+            {
+                "id": 6,
+                "Name": "Sahil Kakwani",
+                "Post": "Developer",
+                "img": ""
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "team_name": "Graphics Team",
+        "members": [
+            {
+                "id": 1,
+                "Name": "vatsal roy",
+                "Post": "Head",
+                "img": ""
+            },
+            {
+                "id": 2,
+                "Name": "Manan Nayak",
+                "Post": "Co-Head",
+                "img": ""
+            },
+            {
+                "id": 3,
+                "Name": "Dhruvyanshi Mahadik",
+                "Post": "Designer",
+                "img": ""
+            },
+            {
+                "id": 4,
+                "Name": "Darshil Parikh",
+                "Post": "Designer",
+                "img": ""
+            },
+            {
+                "id": 5,
+                "Name": "Yashaswi gohil",
+                "Post": "Designer",
+                "img": ""
+            },
+            {
+                "id": 6,
+                "Name": "Drashti patel",
+                "Post": "Designer",
+                "img": ""
+            },
+            {
+                "id": 7,
+                "Name": "rushi shah",
+                "Post": "Designer",
+                "img": ""
+            },
+            {
+                "id": 8,
+                "Name": "Jangid Manish",
+                "Post": "Designer",
+                "img": ""
+            },
+            {
+                "id": 9,
+                "Name": "Modi Hitiksha",
+                "Post": "Designer",
+                "img": ""
+            },
+            {
+                "id": 10,
+                "Name": "Patel Sharad",
+                "Post": "Designer",
+                "img": ""
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "team_name": "Promotion Team",
+        "members": []
+    },
+    {
+        "id": 5,
+        "team_name": "Tech Team",
+        "members": []
+    },
+    {
+        "id": 6,
+        "team_name": "Non-Tech Team",
+        "members": []
+    },
+    {
+        "id": 7,
+        "team_name": "Decoration Team",
+        "members": []
+    }
+]
