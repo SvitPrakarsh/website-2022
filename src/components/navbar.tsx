@@ -11,7 +11,7 @@ import { useEffect } from "preact/compat";
 import { MonogramLogo } from "./icons";
 const MotionBox = motion(Box);
 
-export default function Nav() {
+export default function Navbar() {
 	const [isTransparent, toggleIsTransparent] = useBoolean();
 	const { scrollY, scrollYProgress } = useViewportScroll();
 
@@ -27,6 +27,9 @@ export default function Nav() {
 
 	useEffect(() => {
 		scrollY.onChange(() => update());
+		return () => {
+			scrollY.clearListeners();
+		};
 	}, []);
 	const generateColor = (val: any) => {
 		if (val < 0.3) {
@@ -43,10 +46,12 @@ export default function Nav() {
 			bg='transparent'
 			backdropFilter={isTransparent ? undefined : "blur(10px)"}
 			px='4'
-			transition='0.3s'
+			transition='0.3s ease-in-out'
 			py='3'
 			pos='sticky'
+			zIndex='10'
 			top='0'
+			borderBottom={isTransparent ? undefined : "1px solid #999"}
 		>
 			<Container
 				as={Flex}

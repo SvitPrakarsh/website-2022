@@ -26,7 +26,9 @@ export default function EventCategoryCard({
 			mx='auto'
 			transition='0.3s ease-in-out'
 			shadow='inner'
-			_hover={{ transform: "scale(1.05)" }}
+			_hover={{ transform: [undefined, null, "scale(1.05)"] }}
+			_active={{ transform: "scale(0.9)" }}
+			userSelect='none'
 		>
 			<Image
 				src={"/event-categories/" + icon}
