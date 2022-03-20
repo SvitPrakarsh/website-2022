@@ -17,7 +17,9 @@ const Home = () => {
 	return (
 		<>
 			<Box
-				bgImg='url(/public/patterns.svg)'
+				bgImg={
+					"url(" + process.env.PUBLIC_URL + "/public/patterns.svg)"
+				}
 				bgPos='center'
 				bgSize='contain'
 			>
