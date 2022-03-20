@@ -4,7 +4,10 @@ import {
 	Container,
 	Flex,
 	Heading,
+	HStack,
+	IconButton,
 	Image,
+	Link,
 	SimpleGrid,
 	Text,
 	VStack,
@@ -12,6 +15,7 @@ import {
 import EventCategoryCard from "../components/event-category";
 import Hero from "../components/hero";
 import Nav from "../components/nav";
+import { FiInstagram } from "react-icons/fi";
 
 const Home = () => {
 	return (
@@ -49,7 +53,7 @@ const Home = () => {
 				<Text textAlign='center' mb='12'>
 					Come join the thrill, bring your friend too.
 				</Text>
-				<SimpleGrid columns={[1, 2, 3]} spacing={12}>
+				<SimpleGrid columns={[1, null, 2, 3]} spacing={12}>
 					<EventCategoryCard
 						name='Cyber Intrusion'
 						icon='cyber-intrusion.png'
@@ -92,6 +96,63 @@ const Home = () => {
 					/>
 				</SimpleGrid>
 			</Container>
+			<Box bg='red.100'>
+				<Container
+					maxW='container.xl'
+					py='2'
+					as={Flex}
+					gap='2'
+					flexDir={["column-reverse", null, "row"]}
+					justify={["center", null, "space-between"]}
+					align={["center", null, "space-between"]}
+				>
+					<Text fontSize='lg'>
+						Made with{" "}
+						<Link
+							color='brand.green'
+							textDecorationLine='underline'
+							textDecorationStyle='wavy'
+							textDecorationColor='red.300'
+							transition='0.3s ease-in-out'
+							textDecoration='underline wavy rgba(255, 255, 255, 0)'
+							_hover={{ textDecorationColor: "red.400" }}
+							href='https://preactjs.com/'
+							target='_blank'
+						>
+							Preact
+						</Link>
+						&nbsp;&&nbsp;
+						<Link
+							color='brand.green'
+							textDecorationLine='underline'
+							textDecorationStyle='wavy'
+							textDecorationColor='red.300'
+							transition='0.3s ease-in-out'
+							textDecoration='underline wavy rgba(255, 255, 255, 0)'
+							_hover={{ textDecorationColor: "red.400" }}
+							href='https://vitejs.dev/'
+							target='_blank'
+						>
+							Vite
+						</Link>
+						.
+					</Text>
+					<HStack>
+						<IconButton
+							variant='ghost'
+							icon={<FiInstagram />}
+							rounded='full'
+							aria-label='Instagrm'
+							onClick={() =>
+								window.open(
+									"https://www.instagram.com/svitprakarsh/",
+									"_blank"
+								)
+							}
+						/>
+					</HStack>
+				</Container>
+			</Box>
 		</>
 	);
 };

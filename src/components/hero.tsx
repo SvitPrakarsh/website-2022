@@ -25,8 +25,9 @@ export default function Hero() {
 				</Heading>
 				<Heading
 					color='brand.green'
-					fontSize='lg'
+					fontSize={["sm", null, "lg"]}
 					// fontWeight='700'
+					textAlign='center'
 					letterSpacing='4px'
 				>
 					Engaging minds, empowering success
