@@ -29,9 +29,7 @@ export default function EventCategoryCard({
 			_hover={{ transform: "scale(1.05)" }}
 		>
 			<Image
-				src={
-					process.env.PUBLIC_URL + "/public/event-categories/" + icon
-				}
+				src={"/event-categories/" + icon}
 				alt=''
 				h='40'
 				w='auto'

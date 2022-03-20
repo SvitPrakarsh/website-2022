@@ -16,13 +16,7 @@ import Nav from "../components/nav";
 const Home = () => {
 	return (
 		<>
-			<Box
-				bgImg={
-					"url(" + process.env.PUBLIC_URL + "/public/patterns.svg)"
-				}
-				bgPos='center'
-				bgSize='contain'
-			>
+			<Box bgImg={"url(/patterns.svg)"} bgPos='center' bgSize='contain'>
 				<Nav />
 				<Hero />
 			</Box>
