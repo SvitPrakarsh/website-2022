@@ -344,6 +344,143 @@
         ]
     },
     {
+        "id": 5,
+        "category_name": "Dexter's Lab",
+        "icon": "",
+        "events": [
+            {
+                "id": 1,
+                "title": "Brocode",
+                "tag": "Make it right, Make it fast",
+                "price": "50",
+                "team_size": 1,
+                "contact_person": "Shlok Patel",
+                "contact_number": 7016101293,
+                "rounds": [
+                    {
+                        "id": 1,
+                        "title": "Code Quest",
+                        "description": "Coding and computer science quizzes to test programing language"
+                    },
+                    {
+                        "id": 2,
+                        "title": "In the Loop",
+                        "description": "Main &final Challenge Of CodeChef where 4 practice sets are to be solved in 2 hours"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "ANALYSTATIC",
+                "tag": "Think in new dimensions",
+                "price": "50",
+                "team_size": 1,
+                "contact_person": "Yashaswi Makwana",
+                "contact_number": 9586840317,
+                "rounds": []
+            },
+            {
+                "id": 3,
+                "title": "Smart Home",
+                "tag": "Making the future smart",
+                "price": "50",
+                "team_size": 1,
+                "contact_person": "Yashaswi Makwana",
+                "contact_number": 9586840317,
+                "rounds": [
+                {
+                    "id": 1,
+                    "title": "General activity",
+                    "description": "In this round we will keep a fun team activity for the participants which will test their team and team synchronizing skills"
+                },
+                {
+                    "id": 2,
+                    "title": "Presentation and Viva",
+                    "description": "In this round we will give the participants the explanation of what the event is and what components we are going to use and how they are going to work through a presentation and later take a Viva on the base of the explanation"
+                }, 
+                {
+                    "id": 3,
+                    "title": "Explanation and Kit giveaway",
+                    "description": "In this round we will explain them that how this kit will work and how they can use it in their homes and benefit from it and there will also be a kit giveaway"
+                }
+                ]
+            },
+            {
+                "id": 4,
+                "title": "BRAIN TEASER",
+                "tag": "Chance is What you do next",
+                "price": "50",
+                "team_size": 1,
+                "contact_person": "Yashaswi Makwana",
+                "contact_number": 9586840317,
+                "rounds": [
+                {
+                    "id": 1,
+                    "title": "Crossword Riddle",
+                    "description": "It is a game or like an activity that push the teams too creatively problem solve"
+                },
+                {
+                    "id": 2,
+                    "title": "Let’s C",
+                    "description": "The program you are asked to do in this round will have to be cleared, a software which we would have given you"
+                }, 
+                {
+                    "id": 3,
+                    "title": "Wizardy",
+                    "description": "In this round you have to operate the computer without mouse"
+                }
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Spin-a-web",
+                "tag": "Let’s create a web",
+                "price": "50",
+                "team_size": 1,
+                "contact_person": "Yashaswi Makwana",
+                "contact_number": 9586840317,
+                "rounds": [
+                {
+                    "id": 1,
+                    "title": "INNOVATION",
+                    "description": "In this round you have to create a logo"
+                },
+                {
+                    "id": 2,
+                    "title": "Web Kraken",
+                    "description": "You have to create a website on given theme"
+                }, 
+                {
+                    "id": 3,
+                    "title": "Break The Queries",
+                    "description": "You have to write and run queries"
+                }
+                ]
+            },
+            {
+                "id": 6,
+                "title": "Simplify-3D",
+                "tag": "Create, connect and collaborate",
+                "price": "50",
+                "team_size": 1,
+                "contact_person": "Yashaswi Makwana",
+                "contact_number": 9586840317,
+                "rounds": [
+                {
+                    "id": 1,
+                    "title": "PART-1",
+                    "description": "The Experts from ELEATION will conduct a brief workshop on CREO 8.0.0"
+                },
+                {
+                    "id": 2,
+                    "title": "PART-2",
+                    "description": "At the end the participant whose model is dimensionally accurate, time concerned will be given a 3D printed trophy as Winner"
+                }
+                ]
+            }
+        ]
+    },
+    {
         "id": 1,
         "category_name": "Workshop",
         "icon": "",
@@ -418,34 +555,7 @@
     },
    
    
-    {
-        "id": 5,
-        "category_name": "Dexter's Lab",
-        "icon": "",
-        "events": [
-            {
-                "id": 1,
-                "title": "Brocode",
-                "tag": "",
-                "price": "50",
-                "team_size": 1,
-                "contact_person": "Shlok Patel",
-                "contact_number": 7016101293,
-                "rounds": [
-                    {
-                        "id": 1,
-                        "title": "Code Quest",
-                        "description": "coding and computer science quizzes to test programing language"
-                    },
-                    {
-                        "id": 2,
-                        "title": "In the Loop",
-                        "description": "Main &final Challenge Of CodeChef where 4 practice sets are to be solved in 2 hours"
-                    }
-                ]
-            }
-        ]
-    },
+    
     {
         "id": 6,
         "category_name": "Fantastic",
