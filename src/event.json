@@ -1,0 +1,503 @@
+[
+    {
+        "id": 1,
+        "category_name": "Cyber Intrusion",
+        "icon": "",
+        "events": [
+            {
+                "id": 1,
+                "title": "Nerdy Tech",
+                "tag": "New Technology Daily",
+                "price": null,
+                "team_size": 1,
+                "contact_person": "Yashaswi Makwana",
+                "contact_number": 9586840317,
+                "rounds": [
+                    {
+                        "id": 1,
+                        "title": "SCIENTIFIC PORTRAY - The Joy Of Tech Spirit",
+                        "description": "Question will be asked on the basis of latest technological advancements. Event will occur in the timestamp of not more than 45 minutes"
+                    },
+                    {
+                        "id": 2,
+                        "title": "QUICK SPARK - Best Tech Best Future",
+                        "description": "Buzzer Round will be conducted in 2 Phases, 1st and 2nd Phase will have different type of Questions."
+                    },
+                    {
+                        "id": 3,
+                        "title": "WEILD INTELLIGENCE - Soft Words Win Hard Hearts",
+                        "description": "Debate will be conducted. Time will be provided for the Preparation. Judges will select the Final winner"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "TECHEUPHORIA",
+                "tag": null,
+                "price": null,
+                "team_size": 3,
+                "contact_person": "Neel Shah",
+                "contact_number": 9924255422,
+                "rounds": [
+                    {
+                        "id": 1,
+                        "title": "CODSWALLOP - The encryption, genie is out of the bottle",
+                        "description": "Pronunciation of the gibberish will match the pronunciation of the true phrase or word. The length of the correct word will be the encryption key.You will have to encrypt the correct word using the key."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Techie Scout - Scout till you strike the enemy out",
+                        "description": "Once the team solves the riddle, it will be taken to the next QR code. The final QR code will take both the enemies to the battle ground. Whoever reaches the battle ground first will be the champion troop."
+
+                    },
+                    {
+                        "id": 3,
+                        "title": "Python-O-Steps - Compile, walk and ship your pseudo code.",
+                        "description": "Python-O-Steps is a human snake and ladders game with a twist. It’s all about navigating"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Technophilia",
+                "tag": "",
+                "price": "70",
+                "team_size": 1,
+                "contact_person": "Dhruv Patel",
+                "contact_number": 9586940129,
+                "rounds": [
+                    {
+                        "id": 1,
+                        "title": "Scrib it out",
+                        "description": "In this rounds different sets of logos either disorted or falsy ones the true solution set is to be build from it"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Ui Tarzans",
+                        "description": "A challenge quest where you tackle out teams with your own ui designs"
+                    },
+                    {
+                        "id": 3,
+                        "title": "Wise to Win",
+                        "description": "Final Challenge were individuals will solve the equations to gain credit points and then will tie up with members to bid for computer components and build A perfect set of computer."
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "title": "BITS AND BYTES",
+                "tag": "Where Innovaton meets Experience",
+                "price": null,
+                "team_size": 1,
+                "contact_person": "Yashaswi Makwana",
+                "contact_number": 9586840317,
+                "rounds": [
+                    {
+                        "id": 1,
+                        "title": "HUNKY BRAINS",
+                        "description": "THIS ROUND WILL GIVE YOU QUESTIONS BASED ON BASIC INTERNET THINGS AND YOUR FIELD BASIC LEVEL QUESTIONS"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Access to the Affordables",
+                        "description": "In this round we will give you the your space to create your verse .ie ur pc by carefully handling the budget"
+                    },
+                    {
+                        "id": 3,
+                        "title": "MARKWEB",
+                        "description": "In This Round, Participants will get to know about html and its working"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "category_name": "Workshop",
+        "icon": "",
+        "events": [
+            {
+                "id": 1,
+                "title": "Ethical Hacking - Threat Intelligence",
+                "price": "250",
+                "team_size": "220",
+                "contact_person": "Harshil Vaghela",
+                "contact_number": 7984793269,
+                "rounds": [
+                    {
+                        "id": 1,
+                        "title": "What is Cyber Security",
+                        "description": null
+                    },
+                    {
+                        "id": 2,
+                        "title": "Deep knowledge of DNS and Struture",
+                        "description": null
+                    },
+                    {
+                        "id": 3,
+                        "title": "Explanation of vulnerability & Exploitation",
+                        "description": null
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Cloud Computing and Innovation",
+                "price": "140",
+                "team_size": "150",
+                "contact_person": "Harsh Upadhyay",
+                "contact_number": 7990561878,
+                "rounds": []
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "category_name": "Structonics",
+        "icon": "",
+        "events": [
+            {
+                "id": 1,
+                "title": "Virtual Estate",
+                "tag": "It's all about how you invest",
+                "price": "",
+                "team_size": "2-3",
+                "rounds": [
+                    {
+                        "id": 1,
+                        "title": "Stock Exchange",
+                        "description": "The Difference is Real"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Mutual Funds",
+                        "description": "All you need to do is investment"
+                    },
+                    {
+                        "id": 3,
+                        "title": "Country Auctions",
+                        "description": "Bid it to win it"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Coaster Mania",
+                "tag": "Live it Be it Ride it!",
+                "price": "",
+                "team_size": "3-4",
+                "rounds": [
+                    {
+                        "id": 1,
+                        "title": "Quiz termination-Road to build your dream coaster",
+                        "description": "Road to build your dream coaster"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Building a roller coaster-Compete with the champions",
+                        "description": "Compete with the champions"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Battle of Bridges-Let water lift you success",
+                "tag": "Let water lift you success",
+                "price": "",
+                "team_size": "3-4",
+                "rounds": [
+                    {
+                        "id": 1,
+                        "title": "Master plan-Thinkin of master plan",
+                        "description": "Thinkin of master plan"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Build a bridge-The being is the bridge",
+                        "description": "The being is the bridge"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Pixel it-Capturing every perspective",
+                "tag": "Capturing every perspective",
+                "price": "",
+                "team_size": "1-3",
+                "rounds": []
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "category_name": "Ancillary",
+        "icon": "",
+        "events": [
+            {
+                "id": 1,
+                "title": "Blueprint new era of construction-Design the future with pre engineered steel structure",
+                "tag": "Design the future with pre engineered steel structure",
+                "price": "",
+                "team_size": null,
+                "rounds": [
+                    {
+                        "id": 1,
+                        "title": "Intro of pre engineering steel building",
+                        "description": null
+                    },
+                    {
+                        "id": 2,
+                        "title": "Advantage over the traditional constructions",
+                        "description": null
+                    },
+                    {
+                        "id": 3,
+                        "title": "Construction methods and techniques",
+                        "description": null
+                    }
+                ]
+            }
+        ]
+    },
+   
+    {
+        "id": 5,
+        "category_name": "Dexter's Lab",
+        "icon": "",
+        "events": [
+            {
+                "id": 1,
+                "title": "Brocode",
+                "tag": "",
+                "price": "50",
+                "team_size": 1,
+                "contact_person": "Shlok Patel",
+                "contact_number": 7016101293,
+                "rounds": [
+                    {
+                        "id": 1,
+                        "title": "Code Quest",
+                        "description": "coding and computer science quizzes to test programing language"
+                    },
+                    {
+                        "id": 2,
+                        "title": "In the Loop",
+                        "description": "Main &final Challenge Of CodeChef where 4 practice sets are to be solved in 2 hours"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "category_name": "Fantastic",
+        "icon": "",
+        "events": [
+        {
+            "id": 1,
+            "tag": "",
+            "title": "",
+            "team_size": null,
+            "contact_person": "",
+            "contact_number": 2222,
+            "rounds": [
+                {
+                    
+                    "title": "",
+                    "description": null,
+                    "id": 1
+                }
+            ]
+        },
+        {
+                "id": 1,
+                "title": "THE SINISTER'S TOWN",
+                "tag": "",
+                "price": "₹50",
+                "team_size": "1",
+                "contact_person": "Jay Gadhavi",
+                "contact_phone": "9773072975",
+                "rounds": [
+                    {
+                        "id": 1,
+                        "title": "Murder Madness - Apne Andar Ka Manglu/Sherlock Jagao",
+                        "description": "Participants Will Be Shown A Series Of Videos In Which They Have To Find The Killer"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Treasure Hunt : Ready Set Scavenge - Live,Laugh,Hunt",
+                        "description": "Qualified Participants Will Have To Make A Team For This Event. They'll Get Clues All Connected To Each Other. They Need To Find The Final Treasure For Qualifying To The Final Round"
+                    },
+                    {
+                        "id":3,
+                        "title":"Murder In Manhattan - A Dance With Death / Khooni Saya SVIT Mai",
+                        "description":"The Final Event - The Manhattan Murder Mystery. Does Your Team Have What It Takes To Solve This Mystery And Be The Ultimate Detective/Winner"
+                    }
+                ]
+        },
+        {
+                "id": 2,
+                "title": "SPRING TIME NOSTALGIA",
+                "tag": "",
+                "price": "₹50",
+                "team_size": "1",
+                "contact_person": "DHARMIL PAREKH",
+                "contact_phone": "9328755315",
+                "rounds": [
+                    {
+                        "id": 1,
+                        "title": "Cartoon Quest",
+                        "description": "In this round participants (Individual) will have to guess the cartoon based on the clues (pics/sound) showed to them."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Kicking It",
+                        "description": "In this round participants (DUO) will be provided balloons & they will compete with their opponents. Last one to survive will move to next round."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Trust Issue",
+                        "description": ""
+                    },
+                    {
+                        "id": 4,
+                        "title": "Ludo",
+                        "description": "As the name itself suggests it will be a game of ludo but with some twists. So first team to complete wins the Prize."
+                    }
+                ]
+        },
+            {
+                "id": 3,
+                "title": "FRIENDS",
+                "tag": "",
+                "price": "₹60",
+                "team_size": "4",
+                "contact_person": "SIDDHARTH PATEL",
+                "contact_phone": "9909416636",
+                "rounds": [
+                    {
+                        "id": 1,
+                        "title": "Friendly Feud",
+                        "description": "question will be asked and their answers will be judged on basis of google top 10 results."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Friendly fire",
+                        "description": "on red light players have to throw as many pingpong balls in cup when light turns green they have to stop throwing."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Unfriend",
+                        "description": "Questions will be asked and team with correct answer has to pickup a box if it contains prize money that team wins if it doesn't this process willl be repeated."
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "title": "CINEPOLIS",
+                "tag": "",
+                "price": "₹50",
+                "team_size": "1-2",
+                "contact_person": "YASH PATEL",
+                "contact_phone": "9484462135",
+                "rounds": [
+                    {
+                        "id": 1,
+                        "title": "Movie Mania",
+                        "description": "This is a scribble round were there will be movie names in form of emoji's."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Quest for Heros",
+                        "description": "In this round each group has to form a circle and every participant will be given a balloon and they have to write their name on it.Music will be played and participant will move the balloons in circle when the music stops ,participant has to pop the balloon, every balloon has a chit inside it with names of heroes and villain, First person sitting in the circle will get a dice and whatever number comes on it. that balloon will be popped.People who pop the balloon with names of villain on it, will be eliminated."
+                    },
+                    {
+                        "id": 3,
+                        "title": "End Game",
+                        "description": "This round is a \"TREASURE HUNT\" round where participants have to find six Infinity stones by clues provided to you, in which the hint of last stone will be same for all, and the first one to find and bring will be the winner."
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "title": "THE UNDERDODGE",
+                "tag": "",
+                "price": "₹50",
+                "team_size": "5",
+                "contact_person": "ketul jagtap",
+                "contact_phone": "9328957627",
+                "rounds": [
+                    {
+                        "id": 1,
+                        "title": "Elimination Round",
+                        "description": "5-5 teams will be formed"
+                    },
+                    {
+                        "id": 2,
+                        "title": "The Shield Dodge",
+                        "description": "2 shield will be given to two random players from the team to defend themselves."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Defend If You Can",
+                        "description": "1 shield will be given to two random players from the team to defend themselves."
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "title": "MEMEVERSE",
+                "tag": "",
+                "price": "₹70",
+                "team_size": "1",
+                "contact_person": "Nandaja Nair",
+                "contact_phone": "9099574327",
+                "rounds": [
+                    {
+                        "id": 1,
+                        "title": "MemeVaganza - Aao thodi Dialogue Baazi Karein",
+                        "description": "20 templates will be provided to the participants,they will have to guess the famous dialogues"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Memeflix",
+                        "description": "Paricipants have to guess the memes based on audio that will be proivided, 30 participants will be selected for the next round."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Meme Charades",
+                        "description": " This Is A Duo Round In Which Participants Will Need To Complete A Specific Task In Order To Get A Meme Template About Which They Have Act It Out To Their Teammate"
+                    },
+                    {
+                        "id": 4,
+                        "title": "Meme It",
+                        "description": "6 participants will be selected for this round and they will be provided 3 templates and a theme(any current issue) and they have to create 3 memes based on the theme"
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "title": "DARK STRIKE",
+                "tag": "",
+                "price": "₹70",
+                "team_size": "1",
+                "contact_person": "Ramakrishnan Iyer",
+                "contact_phone": "7016327917",
+                "rounds": [
+                    
+                ]
+            },
+            {
+                "id": 8,
+                "title": "BIG BOSS",
+                "tag": "",
+                "price": "₹60",
+                "team_size": "2",
+                "contact_person": "Mihir Manjani",
+                "contact_phone": "7016972550",
+                "rounds": []
+            }
+        ]
+    }
+]
