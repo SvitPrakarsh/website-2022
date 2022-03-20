@@ -31,7 +31,7 @@ export default function EventCategoryCard({
 			userSelect='none'
 		>
 			<Image
-				src={"/event-categories/" + icon}
+				src={"/category-icons/" + icon}
 				alt=''
 				h='40'
 				w='auto'
