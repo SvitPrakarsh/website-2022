@@ -112,6 +112,143 @@
         ]
     },
     {
+        "id": 2,
+        "category_name": "Structonics",
+        "icon": "",
+        "events": [
+            {
+                "id": 1,
+                "title": "Virtual Estate",
+                "tag": "It's all about how you invest",
+                "price": "",
+                "team_size": "2-3",
+                "rounds": [
+                    {
+                        "id": 1,
+                        "title": "Stock Exchange",
+                        "description": "The Difference is Real"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Mutual Funds",
+                        "description": "All you need to do is investment"
+                    },
+                    {
+                        "id": 3,
+                        "title": "Country Auctions",
+                        "description": "Bid it to win it"
+                    }
+                ]
+            },
+            {
+                "id":2,
+                "title": "Battle of Bridges-Let water lift you success",
+                "tag": "Let water lift you success",
+                "price": "",
+                "team_size": "3-4",
+                "rounds": [
+                    {
+                        "id": 1,
+                        "title": "Master plan-Thinkin of master plan",
+                        "description": "Thinkin of master plan"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Build a bridge-The being is the bridge",
+                        "description": "The being is the bridge"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Coaster Mania",
+                "tag": "Live it Be it Ride it!",
+                "price": "",
+                "team_size": "3-4",
+                "rounds": [
+                    {
+                        "id": 1,
+                        "title": "Quiz termination-Road to build your dream coaster",
+                        "description": "Road to build your dream coaster"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Building a roller coaster-Compete with the champions",
+                        "description": "Compete with the champions"
+                    }
+                ]
+            },
+           
+            {
+                "id": 4,
+                "title": "Pixel it-Capturing every perspective",
+                "tag": "Capturing every perspective",
+                "price": "",
+                "team_size": "1-3",
+                "rounds": []
+            }
+        ]
+    },
+    {
+        "id":3,
+        "category_name": "Circuitricks",
+        "icon": "",
+        "events": [
+            {
+                "id": 1,
+                "title": "Shockwave",
+                "tag": "",
+                "price": null,
+                "team_size": "3-4",
+                "contact_person": "Yashaswi Makwana",
+                "contact_number": 9586840317,
+                "rounds": [
+                    {
+                        "id": 1,
+                        "title": "Quiz Mania",
+                        "description": null
+                    },
+                    {
+                        "id": 2,
+                        "title": "Shock maze",
+                        "description": "You will be given a circuit to solve. Solving the circuit leads to next round and making mistake will be charged...."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Tick Tick Boom",
+                        "description": "Player will need to solve a simple sum and by doing that they will be able to proceed forward and defuse a Circuit"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Tricky circuit",
+                "tag": "Tricky makes you sick, if you have guts take the risk",
+                "price": null,
+                "team_size": "3-4",
+                "contact_person": "Yashaswi Makwana",
+                "contact_number": 9586840317,
+                "rounds": [
+                    {
+                        "id": 1,
+                        "title": "Technical quiz",
+                        "description": "Contestents have to solve the quiz"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Simple circuit",
+                        "description": "Contestents have to solve the simple circuit by given circuit daigram"
+                    },
+                    {
+                        "id": 3,
+                        "title": "Tricky circuit",
+                        "description": "Contestants have to solve the tricky circuit by given circuit diagram"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "id": 1,
         "category_name": "Workshop",
         "icon": "",
@@ -152,83 +289,7 @@
             }
         ]
     },
-    {
-        "id": 2,
-        "category_name": "Structonics",
-        "icon": "",
-        "events": [
-            {
-                "id": 1,
-                "title": "Virtual Estate",
-                "tag": "It's all about how you invest",
-                "price": "",
-                "team_size": "2-3",
-                "rounds": [
-                    {
-                        "id": 1,
-                        "title": "Stock Exchange",
-                        "description": "The Difference is Real"
-                    },
-                    {
-                        "id": 2,
-                        "title": "Mutual Funds",
-                        "description": "All you need to do is investment"
-                    },
-                    {
-                        "id": 3,
-                        "title": "Country Auctions",
-                        "description": "Bid it to win it"
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "title": "Coaster Mania",
-                "tag": "Live it Be it Ride it!",
-                "price": "",
-                "team_size": "3-4",
-                "rounds": [
-                    {
-                        "id": 1,
-                        "title": "Quiz termination-Road to build your dream coaster",
-                        "description": "Road to build your dream coaster"
-                    },
-                    {
-                        "id": 2,
-                        "title": "Building a roller coaster-Compete with the champions",
-                        "description": "Compete with the champions"
-                    }
-                ]
-            },
-            {
-                "id": 3,
-                "title": "Battle of Bridges-Let water lift you success",
-                "tag": "Let water lift you success",
-                "price": "",
-                "team_size": "3-4",
-                "rounds": [
-                    {
-                        "id": 1,
-                        "title": "Master plan-Thinkin of master plan",
-                        "description": "Thinkin of master plan"
-                    },
-                    {
-                        "id": 2,
-                        "title": "Build a bridge-The being is the bridge",
-                        "description": "The being is the bridge"
-                    }
-                ]
-            },
-            {
-                "id": 4,
-                "title": "Pixel it-Capturing every perspective",
-                "tag": "Capturing every perspective",
-                "price": "",
-                "team_size": "1-3",
-                "rounds": []
-            }
-        ]
-    },
+    
     {
         "id": 3,
         "category_name": "Ancillary",
@@ -260,6 +321,7 @@
             }
         ]
     },
+   
    
     {
         "id": 5,
