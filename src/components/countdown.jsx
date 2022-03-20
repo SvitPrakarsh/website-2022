@@ -55,7 +55,7 @@ export default function Countdown() {
 			timerComponents.push(<span>{timeLeft[interval]}</span>);
 			return;
 		}
-		if (timeLeft[interval] < 10) {
+		if (index === 1 && timeLeft[interval] < 10) {
 			timerComponents.push(
 				<span>
 					0{timeLeft[interval]}&nbsp;{": "}
@@ -72,17 +72,17 @@ export default function Countdown() {
 
 	return (
 		<>
-			<Box py='3' textAlign='center'>
+			<Box py='6' textAlign='center'>
 				{timerComponents.length ? (
 					<Box>
-						<Heading fontSize='sm' color='blue.400'>
+						<Heading fontSize='sm' color='red.400'>
 							HOLD TIGHT!
 						</Heading>
 						<Heading size='lg'>{timerComponents}</Heading>
 						<Heading
 							fontSize={10}
 							letterSpacing='2px'
-							color='red.200'
+							color='brand.green'
 							mb={5}
 						>
 							DAYS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HRS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MINS

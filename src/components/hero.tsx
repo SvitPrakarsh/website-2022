@@ -23,10 +23,18 @@ export default function Hero() {
 						&nbsp;&rsquo;22
 					</Text>
 				</Heading>
+				<Heading
+					color='brand.green'
+					fontSize='lg'
+					// fontWeight='700'
+					letterSpacing='4px'
+				>
+					Engaging minds, empowering success
+				</Heading>
 
 				<Countdown />
 				<Text color='brand.red' fontSize='lg' fontWeight='700'>
-					Coming Soon
+					Coming Soon...
 				</Text>
 			</Container>
 		</Box>

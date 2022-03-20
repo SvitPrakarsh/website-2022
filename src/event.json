@@ -2,7 +2,7 @@
     {
         "id": 1,
         "category_name": "Cyber Intrusion",
-        "icon": "",
+        "icon": "cyber-intrusion.png",
         "events": [
             {
                 "id": 1,
@@ -32,7 +32,7 @@
             },
             {
                 "id": 2,
-                "title": "TECHEUPHORIA",
+                "title": "Techeuphoria",
                 "tag": null,
                 "price": null,
                 "team_size": 3,
@@ -48,7 +48,6 @@
                         "id": 2,
                         "title": "Techie Scout - Scout till you strike the enemy out",
                         "description": "Once the team solves the riddle, it will be taken to the next QR code. The final QR code will take both the enemies to the battle ground. Whoever reaches the battle ground first will be the champion troop."
-
                     },
                     {
                         "id": 3,
@@ -85,7 +84,7 @@
             },
             {
                 "id": 4,
-                "title": "BITS AND BYTES",
+                "title": "Bits & Bytes",
                 "tag": "Where Innovaton meets Experience",
                 "price": null,
                 "team_size": 1,
@@ -94,7 +93,7 @@
                 "rounds": [
                     {
                         "id": 1,
-                        "title": "HUNKY BRAINS",
+                        "title": "Hunky Brains",
                         "description": "THIS ROUND WILL GIVE YOU QUESTIONS BASED ON BASIC INTERNET THINGS AND YOUR FIELD BASIC LEVEL QUESTIONS"
                     },
                     {
@@ -104,7 +103,7 @@
                     },
                     {
                         "id": 3,
-                        "title": "MARKWEB",
+                        "title": "Markweb",
                         "description": "In This Round, Participants will get to know about html and its working"
                     }
                 ]
@@ -112,9 +111,9 @@
         ]
     },
     {
-        "id": 1,
+        "id": 2,
         "category_name": "Workshop",
-        "icon": "",
+        "icon": "workshop.png",
         "events": [
             {
                 "id": 1,
@@ -155,7 +154,7 @@
     {
         "id": 2,
         "category_name": "Structonics",
-        "icon": "",
+        "icon": "structonics.png",
         "events": [
             {
                 "id": 1,
@@ -232,7 +231,7 @@
     {
         "id": 3,
         "category_name": "Ancillary",
-        "icon": "",
+        "icon": "ancillary.png",
         "events": [
             {
                 "id": 1,
@@ -260,11 +259,10 @@
             }
         ]
     },
-   
     {
         "id": 5,
         "category_name": "Dexter's Lab",
-        "icon": "",
+        "icon": "dexters-lab.png",
         "events": [
             {
                 "id": 1,
@@ -291,26 +289,25 @@
     },
     {
         "id": 6,
-        "category_name": "Fantastic",
-        "icon": "",
+        "category_name": "Funtastic",
+        "icon": "funtastic.png",
         "events": [
-        {
-            "id": 1,
-            "tag": "",
-            "title": "",
-            "team_size": null,
-            "contact_person": "",
-            "contact_number": 2222,
-            "rounds": [
-                {
-                    
-                    "title": "",
-                    "description": null,
-                    "id": 1
-                }
-            ]
-        },
-        {
+            {
+                "id": 1,
+                "tag": "",
+                "title": "",
+                "team_size": null,
+                "contact_person": "",
+                "contact_number": 2222,
+                "rounds": [
+                    {
+                        "title": "",
+                        "description": null,
+                        "id": 1
+                    }
+                ]
+            },
+            {
                 "id": 1,
                 "title": "THE SINISTER'S TOWN",
                 "tag": "",
@@ -330,13 +327,13 @@
                         "description": "Qualified Participants Will Have To Make A Team For This Event. They'll Get Clues All Connected To Each Other. They Need To Find The Final Treasure For Qualifying To The Final Round"
                     },
                     {
-                        "id":3,
-                        "title":"Murder In Manhattan - A Dance With Death / Khooni Saya SVIT Mai",
-                        "description":"The Final Event - The Manhattan Murder Mystery. Does Your Team Have What It Takes To Solve This Mystery And Be The Ultimate Detective/Winner"
+                        "id": 3,
+                        "title": "Murder In Manhattan - A Dance With Death / Khooni Saya SVIT Mai",
+                        "description": "The Final Event - The Manhattan Murder Mystery. Does Your Team Have What It Takes To Solve This Mystery And Be The Ultimate Detective/Winner"
                     }
                 ]
-        },
-        {
+            },
+            {
                 "id": 2,
                 "title": "SPRING TIME NOSTALGIA",
                 "tag": "",
@@ -366,7 +363,7 @@
                         "description": "As the name itself suggests it will be a game of ludo but with some twists. So first team to complete wins the Prize."
                     }
                 ]
-        },
+            },
             {
                 "id": 3,
                 "title": "FRIENDS",
@@ -484,9 +481,7 @@
                 "team_size": "1",
                 "contact_person": "Ramakrishnan Iyer",
                 "contact_phone": "7016327917",
-                "rounds": [
-                    
-                ]
+                "rounds": []
             },
             {
                 "id": 8,
