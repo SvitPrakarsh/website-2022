@@ -76,7 +76,7 @@ export default function Countdown() {
 				{timerComponents.length ? (
 					<Box>
 						<Heading fontSize='sm' color='red.400'>
-							HOLD TIGHT!
+							HOLD TIGHT
 						</Heading>
 						<Heading size='lg'>{timerComponents}</Heading>
 						<Heading
