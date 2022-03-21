@@ -589,44 +589,13 @@
         ]
     },
     {
-        "id": 6,
-        "category_name": "Robotics",
-        "icon": "ancillary.png",
-        "events": [
-            {
-                "id": 1,
-                "title": "Robo the yantra",
-                "tag": "",
-                "price": "",
-                "team_size": "Get Yourself Ready with The Winning Mantra For “ROBOTHE YANTRA”",
-                "rounds": [
-                    {
-                        "id": 1,
-                        "title": "ROBO RACING",
-                        "description": null
-                    },
-                    {
-                        "id": 2,
-                        "title": "TICK TOCK ROUND",
-                        "description": "Participants have to complete the given track in minimum time of period and have to overcome given obstacles, Obstacles is anything like slope, any material on the ground"
-                    },
-                    {
-                        "id": 3,
-                        "title": "ROBO BALLING",
-                        "description": "Participants have to complete the given round within time limit. for winning this round participant have to Goal maximum numbers of Ball within time limit"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "id": 3,
+        "id": 8,
         "category_name": "Ancillary",
         "icon": "ancillary.png",
         "events": [
             {
                 "id": 1,
-                "title": "Blueprint new era of construction-Design the future with pre engineered steel structure",
+                "title": "Blueprint new era of construction",
                 "tag": "Design the future with pre engineered steel structure",
                 "price": "",
                 "team_size": null,
@@ -647,29 +616,94 @@
                         "description": null
                     }
                 ]
+            },
+            {
+                "id": 2,
+                "title": "3D World",
+                "tag": "WE PRINT THE FUTURE",
+                "price": "",
+                "team_size": null,
+                "rounds": []
+            },
+            {
+                "id": 3,
+                "title": "Garuda",
+                "tag": "View the world from up there",
+                "price": "",
+                "team_size": null,
+                "rounds": []
+            },
+            {
+                "id": 4,
+                "title": "TECHNOPRENUR",
+                "tag": "Be the technovator",
+                "price": "",
+                "team_size": null,
+                "rounds": []
             }
         ]
     },
+    {
+        "id": 9,
+        "category_name": "S.H.A.R.K.S",
+        "icon": "ancillary.png",
+        "events": [
+            {
+                "id": 1,
+                "title": "The Frugal Entrepreneurs",
+                "tag": "Time to Boost your productive and innovative mind",
+                "price": "",
+                "team_size": 1,
+                "rounds": [
+                    {
+                        "id": 1,
+                        "title": "SMARTICUS",
+                        "description": "Questions will be provided for QUICK aptitude test based on industrial questions. Participants will have to answer in given time limit, and if unable to do so, they will be directly eliminated."
+                    },
+                    {
+                        "id": 2,
+                        "title": "FUMING INNOVATION",
+                        "description": "The group with the best blueprint or layout according to the data will be selected for the next round"
+                    },
+                    {
+                        "id": 3,
+                        "title": "SHARK TANK",
+                        "description": "The winner will be decided based on the ability of presentation and analytical skills"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "title": "The decryptive hub",
+                "tag": "A hub of technical and commercial dexterity",
+                "price": "",
+                "team_size": 1,
+                "rounds": [
+                    {
+                        "id": 1,
+                        "title": "McQuicFace",
+                        "description": "This is Q/A based round where participants will face aptitude and technical questions along with jumbled words and crosswords"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Bid to Twig",
+                        "description": "round where each team have to decrypt password of 4 google drive. Hints will given for decrypting the drive"
+                    },
+                    {
+                        "id": 3,
+                        "title": "Reppo-D-Event",
+                        "description": "Participants have to implement their analytical skills. It’s an individual round where participants need to prepare report about any four tech events held in our college campus"
+                    }
+                ]
+            }
+        ]
+    },
+    
     {
         "id": 6,
         "category_name": "Funtastic",
         "icon": "funtastic.png",
         "events": [
-            {
-                "id": 1,
-                "tag": "",
-                "title": "",
-                "team_size": null,
-                "contact_person": "",
-                "contact_number": 2222,
-                "rounds": [
-                    {
-                        "title": "",
-                        "description": null,
-                        "id": 1
-                    }
-                ]
-            },
             {
                 "id": 1,
                 "title": "THE SINISTER'S TOWN",
