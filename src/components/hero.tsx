@@ -10,7 +10,7 @@ export default function Hero() {
 				justify='center'
 				align='center'
 				flexDir='column'
-				minH={["50vh", null, "calc(100vh - 56px)"]}
+				minH={["60vh", null, "100vh"]}
 				maxW='container.xl'
 			>
 				<Heading

@@ -48,7 +48,8 @@ export default function Navbar() {
 			px='4'
 			transition='0.3s ease-in-out'
 			py='3'
-			pos='sticky'
+			pos='fixed'
+			w='full'
 			zIndex='10'
 			top='0'
 			borderBottom={isTransparent ? undefined : "1px solid #999"}

@@ -57,6 +57,11 @@ const Home = () => {
 						bg='hsla(220, 61%, 85%, 1)'
 					/>
 					<EventCategoryCard
+						name='Structonics'
+						icon='structonics.png'
+						bg='hsla(60, 61%, 85%, 1)'
+					/>
+					<EventCategoryCard
 						name='Wheels & Wings'
 						icon='wheels-n-wings.png'
 						bg='hsla(40, 61%, 85%, 1)'
