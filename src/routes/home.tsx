@@ -46,7 +46,7 @@ const Home = () => {
 				<Text textAlign='center' mb='12'>
 					Come join the thrill, bring your friends too.
 				</Text>
-				<SimpleGrid columns={[1, null, 2, 3]} spacing={12}>
+				<SimpleGrid columns={[2, null, 2, 3]} spacing={[4, null, 12]}>
 					<EventCategoryCard
 						name='Cyber Intrusion'
 						icon='cyber-intrusion.png'

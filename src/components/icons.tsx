@@ -1,6 +1,6 @@
 import { createIcon } from "@chakra-ui/react";
 
-export const MonogramLogo = createIcon({
+export const MonogramLogoMono = createIcon({
 	displayName: "MonogramLogo",
 	viewBox: "0 0 543 746",
 	path: (
