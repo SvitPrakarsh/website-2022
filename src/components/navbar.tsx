@@ -3,17 +3,17 @@ import {
 	Container,
 	Flex,
 	Heading,
+	Image,
 	Text,
 	useBoolean,
 } from "@chakra-ui/react";
 import { motion, useViewportScroll } from "framer-motion";
 import { useEffect } from "preact/compat";
-import { MonogramLogo } from "./icons";
 const MotionBox = motion(Box);
 
 export default function Navbar() {
 	const [isTransparent, toggleIsTransparent] = useBoolean();
-	const { scrollY, scrollYProgress } = useViewportScroll();
+	const { scrollY } = useViewportScroll();
 
 	function update() {
 		if (scrollY.get && scrollY.getPrevious()) {
@@ -60,11 +60,12 @@ export default function Navbar() {
 				justify='space-between'
 				align='center'
 			>
-				<MonogramLogo
+				<Image
+					src='/logo.png'
 					h='8'
 					w='auto'
 					// fill='brand.navy'
-					fill={generateColor(scrollYProgress.get())}
+					// fill={generateColor(scrollYProgress.get())}
 				/>
 
 				<Heading size='md'>

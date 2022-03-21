@@ -34,9 +34,6 @@ export default function Hero() {
 				</Heading>
 
 				<Countdown />
-				<Text color='brand.red' fontSize='lg' fontWeight='700'>
-					Coming Soon...
-				</Text>
 			</Container>
 		</Box>
 	);

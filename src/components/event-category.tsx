@@ -13,12 +13,12 @@ export default function EventCategoryCard({
 		<Flex
 			bg={bg}
 			p='4'
-			h='300'
-			w='300'
-			maxW='300'
-			maxH='300'
-			minH='300'
-			minW='300'
+			h={[125, 150, 300]}
+			w={[125, 150, 300]}
+			maxW={[125, 150, 300]}
+			maxH={[125, 150, 300]}
+			minH={[125, 150, 300]}
+			minW={[125, 150, 300]}
 			rounded='2xl'
 			gap='4'
 			flexDir='column'
@@ -33,11 +33,11 @@ export default function EventCategoryCard({
 			<Image
 				src={"/category-icons/" + icon}
 				alt=''
-				h='40'
+				h={[14, null, 40]}
 				w='auto'
 				mx='auto'
 			/>
-			<Heading size='lg' textAlign='center' color='#000'>
+			<Heading fontSize={[12, 16, 20]} textAlign='center' color='#000'>
 				{name}
 			</Heading>
 		</Flex>
