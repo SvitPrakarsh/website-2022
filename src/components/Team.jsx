@@ -36,7 +36,7 @@ function Member({ name, image, post }) {
 			flexDirection="column"
 			py={6}
 			onClick={() => window.open("google.com", "_blank")}
-			background="teal"
+			background="hsla(200, 61%, 85%, 1)"
 			width="220px"
 			height="300px"
 			borderRadius="5"
