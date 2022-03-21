@@ -95,7 +95,7 @@ const Home = () => {
 				</SimpleGrid>
 			</Container>
 				
-				<Team />
+				{/* <Team /> */}
 			<Footer />
 		</>
 	);
