@@ -9,6 +9,7 @@ import {
 import EventCategoryCard from "../components/event-category";
 import Footer from "../components/footer";
 import Hero from "../components/hero";
+import Team from "../components/Team";
 
 const Home = () => {
 	return (
@@ -93,6 +94,8 @@ const Home = () => {
 					/>
 				</SimpleGrid>
 			</Container>
+				
+				<Team />
 			<Footer />
 		</>
 	);
