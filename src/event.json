@@ -521,6 +521,37 @@
     },
     {
         "id": 3,
+        "category_name": "Robotics",
+        "icon": "ancillary.png",
+        "events": [
+            {
+                "id": 1,
+                "title": "Robo the yantra",
+                "tag": "",
+                "price": "",
+                "team_size": "Get Yourself Ready with The Winning Mantra For “ROBOTHE YANTRA”",
+                "rounds": [
+                    {
+                        "id": 1,
+                        "title": "ROBO RACING",
+                        "description": null
+                    },
+                    {
+                        "id": 2,
+                        "title": "TICK TOCK ROUND",
+                        "description": "Participants have to complete the given track in minimum time of period and have to overcome given obstacles, Obstacles is anything like slope, any material on the ground"
+                    },
+                    {
+                        "id": 3,
+                        "title": "ROBO BALLING",
+                        "description": "Participants have to complete the given round within time limit. for winning this round participant have to Goal maximum numbers of Ball within time limit"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
         "category_name": "Ancillary",
         "icon": "ancillary.png",
         "events": [
