@@ -6,6 +6,7 @@ import {
 	Text,
 	VStack,
 } from "@chakra-ui/react";
+import Card from "../components/Card";
 import EventCategoryCard from "../components/event-category";
 import Footer from "../components/footer";
 import Hero from "../components/hero";
@@ -94,8 +95,8 @@ const Home = () => {
 					/>
 				</SimpleGrid>
 			</Container>
-				
-				{/* <Team /> */}
+
+			{/* <Team /> */}
 			<Footer />
 		</>
 	);

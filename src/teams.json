@@ -131,43 +131,43 @@
         "members": [
             {
                 "id": 1,
-                "Name": "Jay patel",
+                "name": "Jay patel",
                 "Post": "Head",
                 "img": "404"
             },
             {
                 "id": 2,
-                "Name": "Vraj Shah",
+                "name": "Vraj Shah",
                 "Post": "Co-Head",
                 "img": "393"
             },
             {
                 "id": 3,
-                "Name": "Harsh Sachaniya",
+                "name": "Harsh Sachaniya",
                 "Post": "Developer",
                 "img": "369"
             },
             {
                 "id": 4,
-                "Name": "Smit Patel",
+                "name": "Smit Patel",
                 "Post": "Developer",
                 "img": "365"
             },
             {
                 "id": 7,
-                "Name": "Darshil Rathod",
+                "name": "Darshil Rathod",
                 "Post": "Developer",
                 "img": ""
             },
             {
                 "id": 5,
-                "Name": "Vivek Suthar",
+                "name": "Vivek Suthar",
                 "Post": "Developer",
                 "img": "362"
             },
             {
                 "id": 6,
-                "Name": "Sahil Kakwani",
+                "name": "Sahil Kakwani",
                 "Post": "Developer",
                 "img": "359"
             }
@@ -179,61 +179,61 @@
         "members": [
             {
                 "id": 1,
-                "Name": "Vatsal Roy",
+                "name": "Vatsal Roy",
                 "Post": "Head",
                 "img": ""
             },
             {
                 "id": 2,
-                "Name": "Manan Nayak",
+                "name": "Manan Nayak",
                 "Post": "Co-Head",
                 "img": "394"
             },
             {
                 "id": 3,
-                "Name": "Dhruvyanshi Mahadik",
+                "name": "Dhruvyanshi Mahadik",
                 "Post": "Designer",
                 "img": "391"
             },
             {
                 "id": 4,
-                "Name": "Darshil Parikh",
+                "name": "Darshil Parikh",
                 "Post": "Designer",
                 "img": "360"
             },
             {
                 "id": 5,
-                "Name": "Yashaswi Gohil",
+                "name": "Yashaswi Gohil",
                 "Post": "Designer",
                 "img": "358"
             },
             {
                 "id": 6,
-                "Name": "Drashti Patel",
+                "name": "Drashti Patel",
                 "Post": "Designer",
                 "img": "390"
             },
             {
                 "id": 7,
-                "Name": "Rushi Shah",
+                "name": "Rushi Shah",
                 "Post": "Designer",
                 "img": "361"
             },
             {
                 "id": 8,
-                "Name": "Jangid Manish",
+                "name": "Jangid Manish",
                 "Post": "Designer",
                 "img": ""
             },
             {
                 "id": 9,
-                "Name": "Modi Hitiksha",
+                "name": "Modi Hitiksha",
                 "Post": "Designer",
                 "img": "364"
             },
             {
                 "id": 10,
-                "Name": "Patel Sharad",
+                "name": "Patel Sharad",
                 "Post": "Designer",
                 "img": "357"
             }
