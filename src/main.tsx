@@ -16,6 +16,19 @@ const styles = {
 			backgroundColor: "brand.ivory",
 			lineHeight: "1.5rem",
 			fontFamily: "'Syne', sans-serif",
+			scrollBehavior: "smooth",
+		},
+		"&::-webkit-scrollbar": {
+			width: "1.5",
+			borderRadius: "8px",
+			backgroundColor: "transparent",
+		},
+		"&::-webkit-scrollbar-thumb": {
+			borderRadius: "5",
+			backgroundColor: "#d24c47",
+		},
+		"&::-webkit-scrollbar-thumb:hover": {
+			backgroundColor: "#d55954",
 		},
 	},
 };
