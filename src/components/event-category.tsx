@@ -29,6 +29,7 @@ export default function EventCategoryCard({
 			_hover={{ transform: [undefined, null, "scale(1.05)"] }}
 			_active={{ transform: "scale(0.9)" }}
 			userSelect='none'
+			cursor={'pointer'}
 		>
 			<Image
 				src={"/category-icons/" + icon}

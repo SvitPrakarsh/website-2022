@@ -97,7 +97,7 @@ const Home = () => {
 			</Container>
 
 			{/* <Team /> */}
-			<Footer />
+			{/* <Footer /> */}
 		</>
 	);
 };
