@@ -7,67 +7,67 @@
         "id": 1,
         "name": "Divyarajsinh Parmar",
         "Post": "Chief Student Coordinator",
-        "img": "/team/400.jpg"
+        "img": "/team/400.webp"
       },
       {
         "id": 2,
         "name": "Ishaan Joshi",
         "Post": "Jt. Chief Student Coordinator",
-        "img": "/team/407.jpg"
+        "img": "/team/407.webp"
       },
       {
         "id": 3,
         "name": "Jay Makawana",
         "Post": "Jt. Chief Coordinator",
-        "img": "/team/409.jpg"
+        "img": "/team/409.webp"
       },
       {
         "id": 4,
         "name": "Rudra Patel",
         "Post": "Techinical Coordinator",
-        "img": "/team/411.jpg"
+        "img": "/team/411.webp"
       },
       {
         "id": 5,
         "name": "Dishit Munjpara",
         "Post": "Jt. Techinical Coordinator",
-        "img": "/team/410.jpg"
+        "img": "/team/410.webp"
       },
       {
         "id": 6,
         "name": "Yashaswi Makwana",
         "Post": "Jt. Techinical Coordinator",
-        "img": "/team/424.jpg"
+        "img": "/team/424.webp"
       },
       {
         "id": 7,
         "name": "Kunjan Tailor",
         "Post": "Promotion Coordinator",
-        "img": "/team/414.jpg"
+        "img": "/team/414.webp"
       },
       {
         "id": 8,
         "name": "Het Shah",
         "Post": "Jt. Promotion Coordinator",
-        "img": "/team/415.jpg"
+        "img": "/team/415.webp"
       },
       {
         "id": 9,
         "name": "Dev Soni",
         "Post": "Administrative Coordinator",
-        "img": "/team/403.jpg"
+        "img": "/team/403.webp"
       },
       {
         "id": 10,
         "name": "Aesha Meghani",
         "Post": "Jt. Administrative Coordinator",
-        "img": "/team/392.jpg"
+        "img": "/team/392.webp"
       },
       {
         "id": 11,
         "name": "Mit Patel",
         "Post": "Finance Coordinator",
-        "img": "/team/397.jpg"
+        "img": "/team/397.webp"
       },
       {
         "id": 12,
@@ -79,49 +79,49 @@
         "id": 13,
         "name": "Jay Patel",
         "Post": "Web Coordinator",
-        "img": "/team/405.jpg"
+        "img": "/team/405.webp"
       },
       {
         "id": 14,
         "name": "Vraj Shah",
         "Post": "Jt. Web Coordinator",
-        "img": "/team/393.jpg"
+        "img": "/team/393.webp"
       },
       {
         "id": 15,
         "name": "Vatsal Roy",
         "Post": "Graphics Coordinator",
-        "img": "prakarsh.jpeg"
+        "img": "Vatsal.webp"
       },
       {
         "id": 16,
         "name": "Manan Nayak",
         "Post": "Jt. Graphics Coordinator",
-        "img": "/team/394.jpg"
+        "img": "/team/394.webp"
       },
       {
         "id": 17,
         "name": "Vishwa Parekh",
         "Post": "Decoration Coordinator",
-        "img": "/team/421.jpg"
+        "img": "/team/421.webp"
       },
       {
         "id": 18,
         "name": "Arth Gaudani",
         "Post": "Non-tech Coordinator",
-        "img": "/team/180.jpg"
+        "img": "/team/180.webp"
       },
       {
         "id": 19,
         "name": "Prakash Shukla",
         "Post": "Jt. Non-tech Coordinator",
-        "img": "/team/179.jpg"
+        "img": "/team/179.webp"
       },
       {
         "id": 20,
         "name": "Avinash Sadana",
         "Post": "Operation Head",
-        "img": "/team/402.jpg"
+        "img": "/team/402.webp"
       }
     ]
   },
@@ -133,7 +133,7 @@
         "id": 1,
         "name": "Jay patel",
         "Post": "Head",
-        "img": "/team/405.jpg",
+        "img": "/team/405.webp",
         "github": "imjp19",
         "linkedin": "imjp19"
       },
@@ -141,7 +141,7 @@
         "id": 2,
         "name": "Vraj Shah",
         "Post": "Co-Head",
-        "img": "/team/393.jpg",
+        "img": "/team/393.webp",
         "github": "thevrajshah",
         "linkedin": "thevrajshah"
       },
@@ -149,7 +149,7 @@
         "id": 3,
         "name": "Harsh Sachaniya",
         "Post": "Developer",
-        "img": "/team/369.jpg",
+        "img": "/team/369.webp",
         "github": "harsh2220",
         "linkedin": "harsh2220"
       },
@@ -157,7 +157,7 @@
         "id": 4,
         "name": "Smit Patel",
         "Post": "Developer",
-        "img": "/team/365.jpg",
+        "img": "/team/365.webp",
         "github": "smitsgithub",
         "linkedin": "imsp18"
       },
@@ -165,7 +165,7 @@
         "id": 7,
         "name": "Darshil Rathod",
         "Post": "Developer",
-        "img": "/team/Darshil.jpg",
+        "img": "/team/Darshil.webp",
         "github": "RathodDarshil",
         "linkedin": "darshil-rathod-783679128"
       },
@@ -173,7 +173,7 @@
         "id": 5,
         "name": "Vivek Suthar",
         "Post": "Developer",
-        "img": "/team/362.jpg",
+        "img": "/team/362.webp",
         "github": "VIVEK-SUTHAR",
         "linkedin": "vivek-suthar-160152202"
       },
@@ -181,7 +181,7 @@
         "id": 6,
         "name": "Sahil Kakwani",
         "Post": "Developer",
-        "img": "/team/359.jpg",
+        "img": "/team/359.webp",
         "github": "sahilkakwani9",
         "linkedin": "sahil-kakwani"
       }
@@ -195,61 +195,61 @@
         "id": 1,
         "name": "Vatsal Roy",
         "Post": "Head",
-        "img": "prakarsh.jpeg"
+        "img": "Vatsal.webp"
       },
       {
         "id": 2,
         "name": "Manan Nayak",
         "Post": "Co-Head",
-        "img": "/team/394.jpg"
+        "img": "/team/394.webp"
       },
       {
         "id": 3,
         "name": "Dhruvyanshi Mahadik",
         "Post": "Designer",
-        "img": "/team/391.jpg"
+        "img": "/team/391.webp"
       },
       {
         "id": 4,
         "name": "Darshil Parikh",
         "Post": "Designer",
-        "img": "/team/360.jpg"
+        "img": "/team/360.webp"
       },
       {
         "id": 5,
         "name": "Yashaswi Gohil",
         "Post": "Designer",
-        "img": "/team/358.jpg"
+        "img": "/team/358.webp"
       },
       {
         "id": 6,
         "name": "Drashti Patel",
         "Post": "Designer",
-        "img": "/team/390.jpg"
+        "img": "/team/390.webp"
       },
       {
         "id": 7,
         "name": "Rushi Shah",
         "Post": "Designer",
-        "img": "/team/361.jpg"
+        "img": "/team/361.webp"
       },
       {
         "id": 8,
         "name": "Jangid Manish",
         "Post": "Designer",
-        "img": "/team/Manish.jpg"
+        "img": "/team/Manish.webp"
       },
       {
         "id": 9,
         "name": "Modi Hitiksha",
         "Post": "Designer",
-        "img": "/team/364.jpg"
+        "img": "/team/364.webp"
       },
       {
         "id": 10,
         "name": "Patel Sharad",
         "Post": "Designer",
-        "img": "/team/357.jpg"
+        "img": "/team/357.webp"
       }
     ]
   }

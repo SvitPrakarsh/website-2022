@@ -4,11 +4,11 @@ import {
 	Flex,
 	Heading,
 	Image,
-	Link,
 	Text,
 	useBoolean,
 } from "@chakra-ui/react";
 import { motion, useViewportScroll } from "framer-motion";
+import { Link } from "preact-router";
 import { useEffect } from "preact/compat";
 const MotionBox = motion(Box);
 
@@ -63,13 +63,13 @@ export default function Navbar() {
 				justify='space-between'
 				align='center'
 			>
-				<Link href="#">
+				<Link href='/'>
 					<Image
 						src='/logo.png'
 						h='8'
 						w='auto'
-					// fill='brand.navy'
-					// fill={generateColor(scrollYProgress.get())}
+						// fill='brand.navy'
+						// fill={generateColor(scrollYProgress.get())}
 					/>
 				</Link>
 				<Heading size='md'>
