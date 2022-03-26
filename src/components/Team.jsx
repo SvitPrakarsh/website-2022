@@ -31,7 +31,7 @@ export default function Team() {
 	return (
 		<Container maxW={"6xl"} py='12'>
 			<Heading textAlign='center'>Team that made it all possible</Heading>
-			<Tabs variant='soft-rounded' colorScheme='teal'>
+			<Tabs isLazy variant='soft-rounded' colorScheme='teal'>
 				<TabList justifyContent='center' my='4' flexWrap='wrap'>
 					<DepartmentTab department='Core Team' />
 					<DepartmentTab department='Web' />
