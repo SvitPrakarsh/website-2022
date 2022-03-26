@@ -2,13 +2,13 @@
     {
         "id": 1,
         "category_name": "Cyber Intrusion",
-        "icon": "cyber-intrusion.png",
+        "icon": "cyber-intrusion.webp",
         "events": [
             {
                 "id": 1,
                 "title": "Nerdy Tech",
                 "tag": "New Technology Daily",
-                "icon": "/icons/nerdytech.png",
+                "icon": "/icons/nerdytech.webp",
                 "price": null,
                 "team_size": 1,
                 "contact_person": "Yashaswi Makwana",
@@ -36,7 +36,7 @@
                 "title": "Techeuphoria",
                 "tag": null,
                 "price": null,
-                "icon": "/icons/techeuphoria.png",
+                "icon": "/icons/techeuphoria.webp",
                 "team_size": 3,
                 "contact_person": "Neel Shah",
                 "contact_number": 9924255422,
@@ -62,7 +62,7 @@
                 "id": 3,
                 "title": "Technophilia",
                 "tag": "",
-                "icon": "/icons/techno-philia.png",
+                "icon": "/icons/techno-philia.webp",
                 "price": "70",
                 "team_size": 1,
                 "contact_person": "Dhruv Patel",
@@ -89,7 +89,7 @@
                 "id": 4,
                 "title": "Bits & Bytes",
                 "tag": "Where Innovaton meets Experience",
-                "icon": "/icons/bits&bytes.png",
+                "icon": "/icons/bits&bytes.webp",
                 "price": null,
                 "team_size": 1,
                 "contact_person": "Yashaswi Makwana",
@@ -117,13 +117,13 @@
     {
         "id": 2,
         "category_name": "Structonics",
-        "icon": "structonics.png",
+        "icon": "structonics.webp",
         "events": [
             {
                 "id": 1,
                 "title": "Virtual Estate",
                 "tag": "It's all about how you invest",
-                "icon": "/icons/virtualestate.png",
+                "icon": "/icons/virtualestate.webp",
                 "price": "",
                 "team_size": "2-3",
                 "rounds": [
@@ -148,7 +148,7 @@
                 "id": 2,
                 "title": "Battle of Bridges-Let water lift you success",
                 "tag": "Let water lift you success",
-                "icon": "/icons/battleofbridges.png",
+                "icon": "/icons/battleofbridges.webp",
                 "price": "",
                 "team_size": "3-4",
                 "rounds": [
@@ -167,7 +167,7 @@
             {
                 "id": 3,
                 "title": "Coaster Mania",
-                "icon": "/icons/coastermania.png",
+                "icon": "/icons/coastermania.webp",
                 "tag": "Live it Be it Ride it!",
                 "price": "",
                 "team_size": "3-4",
@@ -188,7 +188,7 @@
                 "id": 4,
                 "title": "Pixel it-Capturing every perspective",
                 "tag": "Capturing every perspective",
-                "icon": "/icons/pixel-it.png",
+                "icon": "/icons/pixel-it.webp",
                 "price": "",
                 "team_size": "1-3",
                 "rounds": []
@@ -198,7 +198,7 @@
     {
         "id": 3,
         "category_name": "Circuitricks",
-        "icon": "circuitricks.png",
+        "icon": "circuitricks.webp",
         "events": [
             {
                 "id": 1,
@@ -257,7 +257,7 @@
     {
         "id": 4,
         "category_name": "Wheels & wings",
-        "icon": "wheels-n-wings.png",
+        "icon": "wheels-n-wings.webp",
         "events": [
             {
                 "id": 1,
@@ -326,7 +326,7 @@
     {
         "id": 5,
         "category_name": "Dexter's Lab",
-        "icon": "dexters-lab.png",
+        "icon": "dexters-lab.webp",
         "events": [
             {
                 "id": 1,
@@ -463,7 +463,7 @@
     {
         "id": 6,
         "category_name": "Robotics",
-        "icon": "ancillary.png",
+        "icon": "ancillary.webp",
         "events": [
             {
                 "id": 1,
@@ -496,7 +496,7 @@
     {
         "id": 7,
         "category_name": "Workshops",
-        "icon": "workshops.png",
+        "icon": "workshops.webp",
         "events": [
             {
                 "id": 1,
@@ -573,7 +573,7 @@
     {
         "id": 8,
         "category_name": "Ancillary",
-        "icon": "ancillary.png",
+        "icon": "ancillary.webp",
         "events": [
             {
                 "id": 1,
@@ -628,7 +628,7 @@
     {
         "id": 9,
         "category_name": "S.H.A.R.K.S.",
-        "icon": "sharks.png",
+        "icon": "sharks.webp",
         "events": [
             {
                 "id": 1,
@@ -683,7 +683,7 @@
     {
         "id": 10,
         "category_name": "Funtastic",
-        "icon": "funtastic.png",
+        "icon": "funtastic.webp",
         "events": [
             {
                 "id": 1,
