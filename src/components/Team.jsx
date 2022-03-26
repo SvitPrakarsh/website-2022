@@ -33,45 +33,6 @@ function DepartmentTab({ department }) {
   );
 }
 
-function Member({ name, image, post }) {
-  return (
-    <Center
-      flexDirection="column"
-      py={6}
-      onClick={() => window.open("google.com", "_blank")}
-      background="hsla(200, 61%, 85%, 1)"
-      width="220px"
-      height="300px"
-      borderRadius="5"
-    >
-      {/* <Image
-				borderRadius="5"
-				boxSize="180px"
-				objectFit="cover"
-				src={image}
-				alt={name}
-			/> */}
-      <Image
-        borderRadius="5"
-        boxSize="180px"
-        objectFit="cover"
-        src={image}
-        alt={name}
-      />
-      <Text pt="1" fontWeight="bold" fontSize="20" textAlign="center">
-        {name}
-      </Text>
-      <Text pt="0" fontWeight="bold" fontSize="sm" textAlign="center">
-        {post}
-      </Text>
-      <Stack direction="horizontal">
-        {/* <IconButton variant="ghost" icon={<BsLinkedin />} /> */}
-        {/* <IconButton variant="ghost" icon={<BsGithub />} /> */}
-      </Stack>
-    </Center>
-  );
-}
-
 export default function Team() {
   return (
     <Container maxW={"6xl"} py="12">
@@ -93,6 +54,8 @@ export default function Team() {
                         name={member.name}
                         post={member.Post}
                         image={member.img}
+                        github={member.github}
+                        linkedin={member.linkedin}
                       />
                     );
                   })}

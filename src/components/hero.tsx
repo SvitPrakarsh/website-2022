@@ -32,7 +32,6 @@ export default function Hero() {
 				>
 					Engaging minds, empowering success
 				</Heading>
-
 				<Countdown />
 			</Container>
 		</Box>

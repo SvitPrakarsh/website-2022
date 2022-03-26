@@ -7,10 +7,11 @@ import {
   Image,
   HStack,
   IconButton,
+  Link,
 } from "@chakra-ui/react";
 import { BsGithub, BsLinkedin } from "react-icons/bs";
 
-export default function Card({ name, post, image }) {
+export default function Card({ name, post, image, github, linkedin }) {
   return (
     <Center py="6">
       <Box
@@ -41,8 +42,22 @@ export default function Card({ name, post, image }) {
             {name}
           </Heading>
           <HStack>
-            <IconButton variant="ghost" icon={<BsGithub fontSize="18px" />} />
-            <IconButton variant="ghost" icon={<BsLinkedin fontSize="18px" />} />
+            {github && (
+              <Link href={github} target="_blank">
+                <IconButton
+                  variant="ghost"
+                  icon={<BsGithub fontSize="18px" />}
+                />
+              </Link>
+            )}
+            {linkedin && (
+              <Link href={linkedin} target="_blank">
+                <IconButton
+                  variant="ghost"
+                  icon={<BsLinkedin fontSize="18px" />}
+                />
+              </Link>
+            )}
           </HStack>
         </Stack>
       </Box>

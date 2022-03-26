@@ -4,6 +4,7 @@ import {
 	Flex,
 	Heading,
 	Image,
+	Link,
 	Text,
 	useBoolean,
 } from "@chakra-ui/react";
@@ -31,6 +32,7 @@ export default function Navbar() {
 			scrollY.clearListeners();
 		};
 	}, []);
+
 	const generateColor = (val: any) => {
 		if (val < 0.3) {
 			return "brand.red";
@@ -40,6 +42,7 @@ export default function Navbar() {
 			return "brand.green";
 		}
 	};
+
 	return (
 		<MotionBox
 			as='nav'
@@ -60,14 +63,15 @@ export default function Navbar() {
 				justify='space-between'
 				align='center'
 			>
-				<Image
-					src='/logo.png'
-					h='8'
-					w='auto'
+				<Link href="#">
+					<Image
+						src='/logo.png'
+						h='8'
+						w='auto'
 					// fill='brand.navy'
 					// fill={generateColor(scrollYProgress.get())}
-				/>
-
+					/>
+				</Link>
 				<Heading size='md'>
 					6-7 April
 					<Text as='span' color='brand.red'>
