@@ -8,6 +8,7 @@ import {
 } from "@chakra-ui/react";
 import Card from "../components/Card";
 import EventCategoryCard from "../components/event-category";
+import Cyberintrusion from "../components/Events/CyberIntrusion";
 import Footer from "../components/footer";
 import Hero from "../components/hero";
 import Team from "../components/Team";
@@ -97,7 +98,8 @@ const Home = () => {
 			</Container>
 
 			{/* <Team /> */}
-			{/* <Footer /> */}
+			<Footer />
+			{/* <Cyberintrusion/> */}
 		</>
 	);
 };
