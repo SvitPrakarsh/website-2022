@@ -16,21 +16,26 @@ export default function EventCard({
 					flexBasis='30%'
 					bgColor='red.100'
 					rounded='2xl'
-					p={[6]}
+					p={[3, null, 6]}
 					borderRight='dashed'
 					borderColor='#a8908f'
 					justify='center'
 					alignItems='center'
 				>
-					<Img src={icon} w='36' h='auto' maxWidth={[24]} />
+					<Img
+						src={icon}
+						w={[20, null, 36]}
+						h='auto'
+						// maxWidth={[24]}
+					/>
 				</Flex>
 			)}
 			<VStack
 				align='start'
 				justify='center'
 				flex={1}
-				px='6'
-				py='4'
+				px={[3, null, 6]}
+				py={[2, null, 4]}
 				bgColor='red.100'
 				rounded='2xl'
 			>
