@@ -43,15 +43,18 @@ export default function Card({ name, post, image, github, linkedin }) {
           </Heading>
           <HStack>
             {github && (
-              <Link href={github} target="_blank">
+              <Link href={`https://github.com/${github}`} target="_blank">
                 <IconButton
                   variant="ghost"
-                  icon={<BsGithub fontSize="18px" />}
+                  icon={<BsGithub fontSize="18px"/>}
                 />
               </Link>
             )}
             {linkedin && (
-              <Link href={linkedin} target="_blank">
+              <Link
+                href={`https://linkedin.com/in/${linkedin}`}
+                target="_blank"
+              >
                 <IconButton
                   variant="ghost"
                   icon={<BsLinkedin fontSize="18px" />}

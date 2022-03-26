@@ -94,7 +94,7 @@ const Home = () => {
 				</SimpleGrid>
 			</Container>
 
-			{/* <Team /> */}
+			<Team />
 			{/* <Cyberintrusion/> */}
 		</>
 	);

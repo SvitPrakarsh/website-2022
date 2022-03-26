@@ -73,7 +73,7 @@
         "id": 12,
         "name": "Parth Pandya",
         "Post": "Jt. Finance Coordinator",
-        "img": "/team/"
+        "img": "prakarsh.jpeg"
       },
       {
         "id": 13,
@@ -91,7 +91,7 @@
         "id": 15,
         "name": "Vatsal Roy",
         "Post": "Graphics Coordinator",
-        "img": "/team/"
+        "img": "prakarsh.jpeg"
       },
       {
         "id": 16,
@@ -134,56 +134,56 @@
         "name": "Jay patel",
         "Post": "Head",
         "img": "/team/405.jpg",
-        "github": "",
-        "linkedin": ""
+        "github": "imjp19",
+        "linkedin": "imjp19"
       },
       {
         "id": 2,
         "name": "Vraj Shah",
         "Post": "Co-Head",
         "img": "/team/393.jpg",
-        "github": "",
-        "linkedin": ""
+        "github": "thevrajshah",
+        "linkedin": "thevrajshah"
       },
       {
         "id": 3,
         "name": "Harsh Sachaniya",
         "Post": "Developer",
         "img": "/team/369.jpg",
-        "github": "https://github.com/harsh2220",
-        "linkedin": "https://linkedin.com/in/harsh2220"
+        "github": "harsh2220",
+        "linkedin": "harsh2220"
       },
       {
         "id": 4,
         "name": "Smit Patel",
         "Post": "Developer",
         "img": "/team/365.jpg",
-        "github": "",
-        "linkedin": ""
+        "github": "smitsgithub",
+        "linkedin": "imsp18"
       },
       {
         "id": 7,
         "name": "Darshil Rathod",
         "Post": "Developer",
-        "img": "/team/",
-        "github": "",
-        "linkedin": ""
+        "img": "/team/Darshil.jpg",
+        "github": "RathodDarshil",
+        "linkedin": "darshil-rathod-783679128"
       },
       {
         "id": 5,
         "name": "Vivek Suthar",
         "Post": "Developer",
         "img": "/team/362.jpg",
-        "github": "",
-        "linkedin": ""
+        "github": "VIVEK-SUTHAR",
+        "linkedin": "vivek-suthar-160152202"
       },
       {
         "id": 6,
         "name": "Sahil Kakwani",
         "Post": "Developer",
         "img": "/team/359.jpg",
-        "github": "",
-        "linkedin": ""
+        "github": "sahilkakwani9",
+        "linkedin": "sahil-kakwani"
       }
     ]
   },
@@ -195,7 +195,7 @@
         "id": 1,
         "name": "Vatsal Roy",
         "Post": "Head",
-        "img": "/team/"
+        "img": "prakarsh.jpeg"
       },
       {
         "id": 2,
@@ -237,7 +237,7 @@
         "id": 8,
         "name": "Jangid Manish",
         "Post": "Designer",
-        "img": "/team/"
+        "img": "/team/Manish.jpg"
       },
       {
         "id": 9,
