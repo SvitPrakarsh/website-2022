@@ -8,7 +8,6 @@ import "@fontsource/syne/700.css";
 import "@fontsource/syne/800.css";
 import "./main.css";
 import Navbar from "./components/navbar";
-import CatagoryPage from "./routes/CatagoryPage";
 
 const styles = {
   global: {
@@ -88,7 +87,6 @@ const Main = () => (
       <Navbar />
       <Router>
         <Route path="/" component={Home} />
-        <Route path="/events/:catagory" component={CatagoryPage} />
       </Router>
     </ChakraProvider>
   </>

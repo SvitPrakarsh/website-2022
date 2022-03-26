@@ -1,6 +1,5 @@
 import { Box, Flex, Heading, Image } from "@chakra-ui/react";
 import { Link } from "preact-router";
-import { dashify } from "../routes/CatagoryPage";
 export default function EventCategoryCard({
   name,
   icon,
@@ -12,10 +11,8 @@ export default function EventCategoryCard({
 }) 
 
 {
-	console.log(dashify(nam));
 	
   return (
-    <Link href={`/events/${dashify(name)}`}>
       <Flex
         bg={bg}
         p="4"
@@ -48,6 +45,5 @@ export default function EventCategoryCard({
           {name}
         </Heading>
       </Flex>
-    </Link>
   );
 }
