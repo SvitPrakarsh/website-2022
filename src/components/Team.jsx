@@ -15,7 +15,7 @@ import {
   IconButton,
   HStack,
 } from "@chakra-ui/react";
-import { BsGithub, BsLinkedin } from "react-icons/bs";
+// import { BsGithub, BsLinkedin } from "react-icons/bs";
 import Card from "./Card";
 import TEAMS from "../teams.json";
 
@@ -65,8 +65,8 @@ function Member({ name, image, post }) {
         {post}
       </Text>
       <Stack direction="horizontal">
-        <IconButton variant="ghost" icon={<BsLinkedin />} />
-        <IconButton variant="ghost" icon={<BsGithub />} />
+        {/* <IconButton variant="ghost" icon={<BsLinkedin />} /> */}
+        {/* <IconButton variant="ghost" icon={<BsGithub />} /> */}
       </Stack>
     </Center>
   );
@@ -92,7 +92,7 @@ export default function Team() {
                       <Card
                         name={member.name}
                         post={member.Post}
-                        image="https://images.unsplash.com/photo-1511367461989-f85a21fda167?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80"
+                        image={member.img}
                       />
                     );
                   })}

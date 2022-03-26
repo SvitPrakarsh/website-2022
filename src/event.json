@@ -113,7 +113,7 @@
     {
         "id": 2,
         "category_name": "Structonics",
-        "icon": "",
+        "icon": "structonics.png",
         "events": [
             {
                 "id": 1,
@@ -190,7 +190,7 @@
     {
         "id": 3,
         "category_name": "Circuitricks",
-        "icon": "",
+        "icon": "circuitricks.png",
         "events": [
             {
                 "id": 1,
@@ -249,7 +249,7 @@
     {
         "id": 4,
         "category_name": "Wheels and wings",
-        "icon": "",
+        "icon": "wheels-n-wings.png",
         "events": [
             {
                 "id": 1,
@@ -279,32 +279,6 @@
             },
             {
                 "id": 2,
-                "title": "Robo the yantra",
-                "tag": "Get Yourself Ready with The Winning Mantra For “ROBOTHE YANTRA”",
-                "price": null,
-                "team_size": "3-4",
-                "contact_person": "Yashaswi Makwana",
-                "contact_number": 9586840317,
-                "rounds": [
-                    {
-                        "id": 1,
-                        "title": "ROBO RACING",
-                        "description": null
-                    },
-                    {
-                        "id": 2,
-                        "title": "TICK TOCK ROUND",
-                        "description": "Participants have to complete the given track in minimum time of period and have to overcome given obstacles, Obstacles is anything like slope, any material on the ground"
-                    },
-                    {
-                        "id": 3,
-                        "title": "ROBO BALLING",
-                        "description": "Participants have to complete the given round within time limit. for winning this round participant have to Goal maximum numbers of Ball within time limit"
-                    }
-                ]
-            },
-            {
-                "id": 3,
                 "title": "THRUST-IT-UP",
                 "tag": "SOAR THE SKY WITH THE ROAR",
                 "price": null,
@@ -344,7 +318,7 @@
     {
         "id": 5,
         "category_name": "Dexter's Lab",
-        "icon": "",
+        "icon": "dexters-lab.png",
         "events": [
             {
                 "id": 1,
@@ -514,7 +488,7 @@
     {
         "id": 7,
         "category_name": "Workshop",
-        "icon": "",
+        "icon": "workshops.png",
         "events": [
             {
                 "id": 1,
@@ -646,7 +620,7 @@
     {
         "id": 9,
         "category_name": "S.H.A.R.K.S",
-        "icon": "ancillary.png",
+        "icon": "sharks.png",
         "events": [
             {
                 "id": 1,
@@ -700,7 +674,7 @@
     },
     
     {
-        "id": 6,
+        "id": 10,
         "category_name": "Funtastic",
         "icon": "funtastic.png",
         "events": [
