@@ -81,12 +81,6 @@ export default function Team() {
           <DepartmentTab department="Core Team" />
           <DepartmentTab department="Web" />
           <DepartmentTab department="Graphics" />
-          <DepartmentTab department="Tech" />
-          <DepartmentTab department="Non-Tech" />
-          <DepartmentTab department="Promotion" />
-          <DepartmentTab department="Decoration" />
-          <DepartmentTab department="Finance" />
-          <DepartmentTab department="OTS" />
         </TabList>
         <TabPanels>
           {TEAMS.map((team) => {
