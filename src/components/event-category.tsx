@@ -12,7 +12,7 @@ export default function EventCategoryCard({
 }) 
 
 {
-	console.log(dashify(nam));
+	console.log(dashify(name));
 	
   return (
     <Link href={`/events/${dashify(name)}`}>
