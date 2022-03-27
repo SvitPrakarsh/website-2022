@@ -40,9 +40,11 @@ export default function Footer() {
 			>
 				<HStack spacing='3'>
 					<Icon as={HiOutlineLocationMarker} />
-					<Text fontSize='sm'>
-						Sardar Vallabhbhai Patel Institute of Technology, Vasad
-					</Text>
+					<Link href="https://www.google.com/maps/place/Sardar+Vallabhbhai+Patel+Institute+of+Technology/@22.4690063,73.0741597,17z/data=!3m1!4b1!4m5!3m4!1s0x395fb55277d1e457:0xaf7e43a3d29561b!8m2!3d22.4690063!4d73.0763484" target="_blank">
+						<Text fontSize='sm'>
+							Sardar Vallabhbhai Patel Institute of Technology, Vasad
+						</Text>
+					</Link>
 				</HStack>
 				<HStack>
 					<IconButton
