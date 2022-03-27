@@ -14,7 +14,7 @@ import { HiOutlineLocationMarker } from "react-icons/hi";
 export default function Footer() {
 	return (
 		<Box bg='red.100' py='2'>
-			<Container
+			{/* <Container
 				maxW='container.xl'
 				py='2'
 				as={Flex}
@@ -29,7 +29,7 @@ export default function Footer() {
 						Sardar Vallabhbhai Patel Institute of Technology, Vasad
 					</Text>
 				</HStack>
-			</Container>
+			</Container> */}
 			<Container
 				maxW='container.xl'
 				as={Flex}
@@ -38,37 +38,12 @@ export default function Footer() {
 				justify={["center", null, "space-between"]}
 				align={["center", null, "space-between"]}
 			>
-				<Text fontSize='sm'>
-					Made with{" "}
-					<Link
-						color='brand.green'
-						textDecorationLine='underline'
-						textDecorationStyle='wavy'
-						textDecorationColor='red.300'
-						transition='0.3s ease-in-out'
-						textDecoration='underline wavy rgba(255, 255, 255, 0)'
-						_hover={{ textDecorationColor: "red.400" }}
-						href='https://preactjs.com/'
-						target='_blank'
-					>
-						Preact
-					</Link>
-					&nbsp;&&nbsp;
-					<Link
-						color='brand.green'
-						textDecorationLine='underline'
-						textDecorationStyle='wavy'
-						textDecorationColor='red.300'
-						transition='0.3s ease-in-out'
-						textDecoration='underline wavy rgba(255, 255, 255, 0)'
-						_hover={{ textDecorationColor: "red.400" }}
-						href='https://vitejs.dev/'
-						target='_blank'
-					>
-						Vite
-					</Link>
-					.
-				</Text>
+				<HStack spacing='3'>
+					<Icon as={HiOutlineLocationMarker} />
+					<Text fontSize='sm'>
+						Sardar Vallabhbhai Patel Institute of Technology, Vasad
+					</Text>
+				</HStack>
 				<HStack>
 					<IconButton
 						variant='ghost'
