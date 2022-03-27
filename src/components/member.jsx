@@ -12,7 +12,7 @@ import {
 import { memo } from "preact/compat";
 import { BsGithub, BsLinkedin } from "react-icons/bs";
 
-const Card = memo(({ name, post, image, github, linkedin }) => {
+const MemberCard = memo(({ name, post, image, github, linkedin }) => {
 	return (
 		<Center py='6' role='group' cursor='pointer'>
 			<Box
@@ -40,6 +40,7 @@ const Card = memo(({ name, post, image, github, linkedin }) => {
 						height={200}
 						width={220}
 						objectFit={"cover"}
+						style={{ objectPosition: "0 0" }}
 						src={image}
 					/>
 				</Box>
@@ -88,4 +89,4 @@ const Card = memo(({ name, post, image, github, linkedin }) => {
 	);
 });
 
-export default Card;
+export default MemberCard;

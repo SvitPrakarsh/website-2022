@@ -11,7 +11,7 @@ import {
 } from "@chakra-ui/react";
 import TEAMS from "../teams.json";
 // import { BsGithub, BsLinkedin } from "react-icons/bs";
-import Card from "./Card";
+import MemberCard from "./member";
 
 function DepartmentTab({ department }) {
 	return (
@@ -48,7 +48,7 @@ export default function Team() {
 								>
 									{team.members.map(member => {
 										return (
-											<Card
+											<MemberCard
 												name={member.name}
 												post={member.Post}
 												image={member.img}
