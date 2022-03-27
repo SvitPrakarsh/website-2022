@@ -87,12 +87,10 @@ const Main = () => (
 	<>
 		<ChakraProvider theme={theme}>
 			<Navbar />
-			<Box minH='calc(100vh - 112px)'>
-				<Router>
-					<Route path='/' component={Home} />
-					<Route path='/events/:category' component={CategoryPage} />
-				</Router>
-			</Box>
+			<Router>
+				<Route path='/' component={Home} />
+				<Route path='/events/:categoryName' component={CategoryPage} />
+			</Router>
 			<Footer />
 		</ChakraProvider>
 	</>

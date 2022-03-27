@@ -1,13 +1,13 @@
 [
   {
-    "id": 1,
+    "id": 0,
     "category_name": "Cyber Intrusion",
     "icon": "cyber-intrusion.webp",
     "events": [
       {
-        "id": 1,
+        "id": 0,
         "title": "Nerdy Tech",
-        "tag": "New Technology Daily",
+        "desc": "New Technology Daily",
         "icon": "/icons/nerdytech.webp",
         "price": null,
         "team_size": 1,
@@ -15,26 +15,26 @@
         "contact_number": 9586840317,
         "rounds": [
           {
-            "id": 1,
+            "id": 0,
             "title": "SCIENTIFIC PORTRAY - The Joy Of Tech Spirit",
             "description": "Question will be asked on the basis of latest technological advancements. Event will occur in the timestamp of not more than 45 minutes"
           },
           {
-            "id": 2,
+            "id": 1,
             "title": "QUICK SPARK - Best Tech Best Future",
             "description": "Buzzer Round will be conducted in 2 Phases, 1st and 2nd Phase will have different type of Questions."
           },
           {
-            "id": 3,
+            "id": 2,
             "title": "WEILD INTELLIGENCE - Soft Words Win Hard Hearts",
             "description": "Debate will be conducted. Time will be provided for the Preparation. Judges will select the Final winner"
           }
         ]
       },
       {
-        "id": 2,
+        "id": 1,
         "title": "Techeuphoria",
-        "tag": null,
+        "desc": null,
         "price": null,
         "icon": "/icons/techeuphoria.webp",
         "team_size": 3,
@@ -42,26 +42,26 @@
         "contact_number": 9924255422,
         "rounds": [
           {
-            "id": 1,
+            "id": 0,
             "title": "CODSWALLOP - The encryption, genie is out of the bottle",
             "description": "Pronunciation of the gibberish will match the pronunciation of the true phrase or word. The length of the correct word will be the encryption key.You will have to encrypt the correct word using the key."
           },
           {
-            "id": 2,
+            "id": 1,
             "title": "Techie Scout - Scout till you strike the enemy out",
             "description": "Once the team solves the riddle, it will be taken to the next QR code. The final QR code will take both the enemies to the battle ground. Whoever reaches the battle ground first will be the champion troop."
           },
           {
-            "id": 3,
+            "id": 2,
             "title": "Python-O-Steps - Compile, walk and ship your pseudo code.",
             "description": "Python-O-Steps is a human snake and ladders game with a twist. It’s all about navigating"
           }
         ]
       },
       {
-        "id": 3,
+        "id": 2,
         "title": "Technophilia",
-        "tag": "",
+        "desc": "",
         "icon": "/icons/techno-philia.webp",
         "price": "70",
         "team_size": 1,
@@ -69,26 +69,26 @@
         "contact_number": 9586940129,
         "rounds": [
           {
-            "id": 1,
+            "id": 0,
             "title": "Scrib it out",
             "description": "In this rounds different sets of logos either disorted or falsy ones the true solution set is to be build from it"
           },
           {
-            "id": 2,
+            "id": 1,
             "title": "Ui Tarzans",
             "description": "A challenge quest where you tackle out teams with your own ui designs"
           },
           {
-            "id": 3,
+            "id": 2,
             "title": "Wise to Win",
             "description": "Final Challenge were individuals will solve the equations to gain credit points and then will tie up with members to bid for computer components and build A perfect set of computer."
           }
         ]
       },
       {
-        "id": 4,
+        "id": 3,
         "title": "Bits & Bytes",
-        "tag": "Where Innovaton meets Experience",
+        "desc": "Where Innovaton meets Experience",
         "icon": "/icons/bits&bytes.webp",
         "price": null,
         "team_size": 1,
@@ -96,17 +96,17 @@
         "contact_number": 9586840317,
         "rounds": [
           {
-            "id": 1,
+            "id": 0,
             "title": "Hunky Brains",
             "description": "THIS ROUND WILL GIVE YOU QUESTIONS BASED ON BASIC INTERNET THINGS AND YOUR FIELD BASIC LEVEL QUESTIONS"
           },
           {
-            "id": 2,
+            "id": 1,
             "title": "Access to the Affordables",
             "description": "In this round we will give you the your space to create your verse .ie ur pc by carefully handling the budget"
           },
           {
-            "id": 3,
+            "id": 2,
             "title": "Markweb",
             "description": "In This Round, Participants will get to know about html and its working"
           }
@@ -115,95 +115,103 @@
     ]
   },
   {
-    "id": 2,
+    "id": 1,
     "category_name": "Structonics",
     "icon": "structonics.webp",
     "events": [
       {
-        "id": 1,
+        "id": 0,
         "title": "Virtual Estate",
-        "tag": "It's all about how you invest",
+        "desc": "It's all about how you invest",
         "icon": "/icons/virtualestate.webp",
         "price": "",
         "team_size": "2-3",
+        "contact_person": "Yashaswi Makwana",
+        "contact_number": 9586840317,
         "rounds": [
           {
-            "id": 1,
+            "id": 0,
             "title": "Stock Exchange",
             "description": "The Difference is Real"
           },
           {
-            "id": 2,
+            "id": 1,
             "title": "Mutual Funds",
             "description": "All you need to do is investment"
           },
           {
-            "id": 3,
+            "id": 2,
             "title": "Country Auctions",
             "description": "Bid it to win it"
           }
         ]
       },
       {
-        "id": 2,
+        "id": 1,
         "title": "Battle of Bridges-Let water lift you success",
-        "tag": "Let water lift you success",
+        "desc": "Let water lift you success",
         "icon": "/icons/battleofbridges.webp",
         "price": "",
         "team_size": "3-4",
+        "contact_person": "Yashaswi Makwana",
+        "contact_number": 9586840317,
         "rounds": [
           {
-            "id": 1,
+            "id": 0,
             "title": "Master plan-Thinkin of master plan",
             "description": "Thinkin of master plan"
           },
           {
-            "id": 2,
+            "id": 1,
             "title": "Build a bridge-The being is the bridge",
             "description": "The being is the bridge"
           }
         ]
       },
       {
-        "id": 3,
+        "id": 2,
         "title": "Coaster Mania",
         "icon": "/icons/coastermania.webp",
-        "tag": "Live it Be it Ride it!",
+        "desc": "Live it Be it Ride it!",
         "price": "",
         "team_size": "3-4",
+        "contact_person": "Yashaswi Makwana",
+        "contact_number": 9586840317,
         "rounds": [
           {
-            "id": 1,
+            "id": 0,
             "title": "Quiz termination-Road to build your dream coaster",
             "description": "Road to build your dream coaster"
           },
           {
-            "id": 2,
+            "id": 1,
             "title": "Building a roller coaster-Compete with the champions",
             "description": "Compete with the champions"
           }
         ]
       },
       {
-        "id": 4,
+        "id": 3,
         "title": "Pixel it-Capturing every perspective",
-        "tag": "Capturing every perspective",
+        "desc": "Capturing every perspective",
         "icon": "/icons/pixel-it.webp",
         "price": "",
         "team_size": "1-3",
+        "contact_person": "Yashaswi Makwana",
+        "contact_number": 9586840317,
         "rounds": []
       }
     ]
   },
   {
-    "id": 3,
+    "id": 2,
     "category_name": "Circuitricks",
     "icon": "circuitricks.webp",
     "events": [
       {
-        "id": 1,
+        "id": 0,
         "title": "Shockwave",
-        "tag": "",
+        "desc": "",
         "icon": "/icons/shockwave.webp",
         "price": null,
         "team_size": "3-4",
@@ -211,26 +219,26 @@
         "contact_number": 9586840317,
         "rounds": [
           {
-            "id": 1,
+            "id": 0,
             "title": "Quiz Mania",
-            "description": null
+            "description": ""
           },
           {
-            "id": 2,
+            "id": 1,
             "title": "Shock maze",
             "description": "You will be given a circuit to solve. Solving the circuit leads to next round and making mistake will be charged...."
           },
           {
-            "id": 3,
+            "id": 2,
             "title": "Tick Tick Boom",
             "description": "Player will need to solve a simple sum and by doing that they will be able to proceed forward and defuse a Circuit"
           }
         ]
       },
       {
-        "id": 2,
+        "id": 1,
         "title": "Tricky circuit",
-        "tag": "Tricky makes you sick, if you have guts take the risk",
+        "desc": "Tricky makes you sick, if you have guts take the risk",
         "icon": "/icons/trickycircuit.webp",
         "price": null,
         "team_size": "3-4",
@@ -238,17 +246,17 @@
         "contact_number": 9586840317,
         "rounds": [
           {
-            "id": 1,
+            "id": 0,
             "title": "Technical quiz",
             "description": "Contestents have to solve the quiz"
           },
           {
-            "id": 2,
+            "id": 1,
             "title": "Simple circuit",
             "description": "Contestents have to solve the simple circuit by given circuit daigram"
           },
           {
-            "id": 3,
+            "id": 2,
             "title": "Tricky circuit",
             "description": "Contestants have to solve the tricky circuit by given circuit diagram"
           }
@@ -257,14 +265,14 @@
     ]
   },
   {
-    "id": 4,
+    "id": 3,
     "category_name": "Wheels & wings",
     "icon": "wheels-n-wings.webp",
     "events": [
       {
-        "id": 1,
+        "id": 0,
         "title": "Tech intellect",
-        "tag": "",
+        "desc": "",
         "icon": "/icons/techintellect.webp",
         "price": null,
         "team_size": 1,
@@ -272,26 +280,26 @@
         "contact_number": 9586840317,
         "rounds": [
           {
-            "id": 1,
+            "id": 0,
             "title": "Blitz the Quiz",
             "description": "A paper-based quiz based on GK and basic science"
           },
           {
-            "id": 2,
+            "id": 1,
             "title": "Technical snake and ladder",
             "description": "Similar to snake and ladder, instead of a ladder, there will be a riddle. Participants will form a group of 2 And the winner will be sent in the next round"
           },
           {
-            "id": 3,
+            "id": 2,
             "title": "Buckle Up",
             "description": "In this round participants will have to find the parts of the aircraft from the clues and assemble the aircraft"
           }
         ]
       },
       {
-        "id": 2,
+        "id": 1,
         "title": "THRUST-IT-UP",
-        "tag": "SOAR THE SKY WITH THE ROAR",
+        "desc": "SOAR THE SKY WITH THE ROAR",
         "icon": "/icons/thrust-it-up.webp",
         "price": null,
         "team_size": "1-3",
@@ -299,26 +307,26 @@
         "contact_number": 9586840317,
         "rounds": [
           {
-            "id": 1,
+            "id": 0,
             "title": "TECHQUEST",
             "description": "IT IS AN ONLINE BASED QUIZ  WHICH WOULD HAVE APPTITUTE QUESTIONS, INTELLIGENCE QUOTIENT AND  LOGICAL REASONING TYPE OF QUESTIONS"
           },
           {
-            "id": 2,
+            "id": 1,
             "title": "BUZZER-UP",
             "description": "THIS IS THE FUN BUZZER ROUND IN WHICH THE SELECTED PARTICIPANTS HAVE TO TAKE PART IN THE GROUPS OF 6 NO. OF PARTICIPANTS"
           },
           {
-            "id": 3,
+            "id": 2,
             "title": "BOOSTERZ",
             "description": "EACH TEAM WILL HAVE TO MAKE ROCKET WITH PROPER GUIDANCE PROVIDED BY OUR TECH TEAM"
           }
         ]
       },
       {
-        "id": 3,
+        "id": 2,
         "title": "Automated Guided Vehicle",
-        "tag": "A better replacement of human labour",
+        "desc": "A better replacement of human labour",
         "icon": "/icons/automated.webp",
         "price": null,
         "team_size": "1",
@@ -329,14 +337,14 @@
     ]
   },
   {
-    "id": 5,
+    "id": 4,
     "category_name": "Dexter's Lab",
     "icon": "dexters-lab.webp",
     "events": [
       {
-        "id": 1,
+        "id": 0,
         "title": "Brocode",
-        "tag": "Make it right, Make it fast",
+        "desc": "Make it right, Make it fast",
         "icon": "/icons/brocode.webp",
         "price": "50",
         "team_size": 1,
@@ -344,21 +352,21 @@
         "contact_number": 7016101293,
         "rounds": [
           {
-            "id": 1,
+            "id": 0,
             "title": "Code Quest",
             "description": "Coding and computer science quizzes to test programing language"
           },
           {
-            "id": 2,
+            "id": 1,
             "title": "In the Loop",
             "description": "Main &final Challenge Of CodeChef where 4 practice sets are to be solved in 2 hours"
           }
         ]
       },
       {
-        "id": 2,
+        "id": 1,
         "title": "ANALYSTATIC",
-        "tag": "Think in new dimensions",
+        "desc": "Think in new dimensions",
         "icon": "/icons/analystatic.webp",
         "price": "50",
         "team_size": 1,
@@ -367,9 +375,9 @@
         "rounds": []
       },
       {
-        "id": 3,
+        "id": 2,
         "title": "Smart Home",
-        "tag": "Making the future smart",
+        "desc": "Making the future smart",
         "icon": "/icons/smart-home.webp",
         "price": "50",
         "team_size": 1,
@@ -377,26 +385,26 @@
         "contact_number": 9586840317,
         "rounds": [
           {
-            "id": 1,
+            "id": 0,
             "title": "General activity",
             "description": "In this round we will keep a fun team activity for the participants which will test their team and team synchronizing skills"
           },
           {
-            "id": 2,
+            "id": 1,
             "title": "Presentation and Viva",
             "description": "In this round we will give the participants the explanation of what the event is and what components we are going to use and how they are going to work through a presentation and later take a Viva on the base of the explanation"
           },
           {
-            "id": 3,
+            "id": 2,
             "title": "Explanation and Kit giveaway",
             "description": "In this round we will explain them that how this kit will work and how they can use it in their homes and benefit from it and there will also be a kit giveaway"
           }
         ]
       },
       {
-        "id": 4,
+        "id": 3,
         "title": "BRAIN TEASER",
-        "tag": "Chance is What you do next",
+        "desc": "Chance is What you do next",
         "icon": "/icons/brainteaser.webp",
         "price": "50",
         "team_size": 1,
@@ -404,26 +412,26 @@
         "contact_number": 9586840317,
         "rounds": [
           {
-            "id": 1,
+            "id": 0,
             "title": "Crossword Riddle",
             "description": "It is a game or like an activity that push the teams too creatively problem solve"
           },
           {
-            "id": 2,
+            "id": 1,
             "title": "Let’s C",
             "description": "The program you are asked to do in this round will have to be cleared, a software which we would have given you"
           },
           {
-            "id": 3,
+            "id": 2,
             "title": "Wizardy",
             "description": "In this round you have to operate the computer without mouse"
           }
         ]
       },
       {
-        "id": 5,
+        "id": 4,
         "title": "Spin-a-web",
-        "tag": "Let’s create a web",
+        "desc": "Let’s create a web",
         "icon": "/icons/",
         "price": "50",
         "team_size": 1,
@@ -431,26 +439,26 @@
         "contact_number": 9586840317,
         "rounds": [
           {
-            "id": 1,
+            "id": 0,
             "title": "INNOVATION",
             "description": "In this round you have to create a logo"
           },
           {
-            "id": 2,
+            "id": 1,
             "title": "Web Kraken",
             "description": "You have to create a website on given theme"
           },
           {
-            "id": 3,
+            "id": 2,
             "title": "Break The Queries",
             "description": "You have to write and run queries"
           }
         ]
       },
       {
-        "id": 6,
+        "id": 5,
         "title": "Simplify-3D",
-        "tag": "Create, connect and collaborate",
+        "desc": "Create, connect and collaborate",
         "icon": "/icons/Simplify3D.webp",
         "price": "50",
         "team_size": 1,
@@ -458,12 +466,12 @@
         "contact_number": 9586840317,
         "rounds": [
           {
-            "id": 1,
+            "id": 0,
             "title": "PART-1",
             "description": "The Experts from ELEATION will conduct a brief workshop on CREO 8.0.0"
           },
           {
-            "id": 2,
+            "id": 1,
             "title": "PART-2",
             "description": "At the end the participant whose model is dimensionally accurate, time concerned will be given a 3D printed trophy as Winner"
           }
@@ -472,14 +480,14 @@
     ]
   },
   {
-    "id": 6,
+    "id": 5,
     "category_name": "Robotics",
     "icon": "ancillary.webp",
     "events": [
       {
-        "id": 1,
+        "id": 0,
         "title": "Robo the yantra",
-        "tag": "",
+        "desc": "",
         "icon": "/icons/robotheyantra.webp",
         "price": "",
         "contact_person": "Yashaswi Makwana",
@@ -487,17 +495,17 @@
         "team_size": "Get Yourself Ready with The Winning Mantra For “ROBOTHE YANTRA”",
         "rounds": [
           {
-            "id": 1,
+            "id": 0,
             "title": "ROBO RACING",
-            "description": null
+            "description": ""
           },
           {
-            "id": 2,
+            "id": 1,
             "title": "TICK TOCK ROUND",
             "description": "Participants have to complete the given track in minimum time of period and have to overcome given obstacles, Obstacles is anything like slope, any material on the ground"
           },
           {
-            "id": 3,
+            "id": 2,
             "title": "ROBO BALLING",
             "description": "Participants have to complete the given round within time limit. for winning this round participant have to Goal maximum numbers of Ball within time limit"
           }
@@ -506,39 +514,41 @@
     ]
   },
   {
-    "id": 7,
+    "id": 6,
     "category_name": "Workshops",
     "icon": "workshops.webp",
     "events": [
       {
-        "id": 1,
+        "id": 0,
         "title": "Ethical Hacking - Threat Intelligence",
         "icon": "/icons/ethicalhacking.webp",
+        "desc": "",
         "price": "250",
         "team_size": "220",
         "contact_person": "Harshil Vaghela",
         "contact_number": 7984793269,
         "rounds": [
           {
-            "id": 1,
+            "id": 0,
             "title": "What is Cyber Security",
-            "description": null
+            "description": ""
+          },
+          {
+            "id": 1,
+            "title": "Deep knowledge of DNS and Struture",
+            "description": ""
           },
           {
             "id": 2,
-            "title": "Deep knowledge of DNS and Struture",
-            "description": null
-          },
-          {
-            "id": 3,
             "title": "Explanation of vulnerability & Exploitation",
-            "description": null
+            "description": ""
           }
         ]
       },
       {
-        "id": 3,
+        "id": 2,
         "title": "Rouven The Raven",
+        "desc": "",
         "icon": "/icons/",
         "price": "140",
         "team_size": "150",
@@ -547,8 +557,9 @@
         "rounds": []
       },
       {
-        "id": 4,
+        "id": 3,
         "title": "Rocking Piston",
+        "desc": "",
         "icon": "/icons/rockingpiston.webp",
         "price": "140",
         "team_size": "150",
@@ -557,8 +568,9 @@
         "rounds": []
       },
       {
-        "id": 5,
+        "id": 4,
         "title": "Soundphilia",
+        "desc": "",
         "icon": "/icons/soundphilia.webp",
         "price": "140",
         "team_size": "150",
@@ -567,7 +579,8 @@
         "rounds": []
       },
       {
-        "id": 6,
+        "id": 5,
+        "desc": "",
         "title": "Cloud Computing and Innovation",
         "icon": "/icons/cloudcomputing.webp",
         "price": "140",
@@ -577,8 +590,9 @@
         "rounds": []
       },
       {
-        "id": 7,
+        "id": 6,
         "title": "Microhub",
+        "desc": "",
         "icon": "/icons/microhub.webp",
         "price": "140",
         "team_size": "150",
@@ -589,114 +603,126 @@
     ]
   },
   {
-    "id": 8,
+    "id": 7,
     "category_name": "Ancillary",
     "icon": "ancillary.webp",
     "events": [
       {
-        "id": 1,
+        "id": 0,
         "title": "Blueprint new era of construction",
-        "tag": "Design the future with pre engineered steel structure",
+        "desc": "Design the future with pre engineered steel structure",
         "icon": "/icons/blueprint.webp",
         "price": "",
         "team_size": null,
+        "contact_person": "Yashaswi Makwana",
+        "contact_number": 9586840317,
         "rounds": [
           {
-            "id": 1,
+            "id": 0,
             "title": "Intro of pre engineering steel building",
-            "description": null
+            "description": ""
+          },
+          {
+            "id": 1,
+            "title": "Advantage over the traditional constructions",
+            "description": ""
           },
           {
             "id": 2,
-            "title": "Advantage over the traditional constructions",
-            "description": null
-          },
-          {
-            "id": 3,
             "title": "Construction methods and techniques",
-            "description": null
+            "description": ""
           }
         ]
       },
       {
-        "id": 2,
+        "id": 1,
         "title": "3D World",
-        "tag": "WE PRINT THE FUTURE",
+        "desc": "WE PRINT THE FUTURE",
         "icon": "/icons/3dworld.webp",
         "price": "",
         "team_size": null,
+        "contact_person": "Yashaswi Makwana",
+        "contact_number": 9586840317,
+        "rounds": []
+      },
+      {
+        "id": 2,
+        "title": "Garuda",
+        "desc": "View the world from up there",
+        "icon": "/icons/garuda.webp",
+        "price": "",
+        "team_size": null,
+        "contact_person": "Yashaswi Makwana",
+        "contact_number": 9586840317,
         "rounds": []
       },
       {
         "id": 3,
-        "title": "Garuda",
-        "tag": "View the world from up there",
-        "icon": "/icons/garuda.webp",
-        "price": "",
-        "team_size": null,
-        "rounds": []
-      },
-      {
-        "id": 4,
         "title": "TECHNOPRENUR",
-        "tag": "Be the technovator",
+        "desc": "Be the technovator",
         "icon": "/icons/technoprenur.webp",
         "price": "",
         "team_size": null,
+        "contact_person": "Yashaswi Makwana",
+        "contact_number": 9586840317,
         "rounds": []
       }
     ]
   },
   {
-    "id": 9,
+    "id": 8,
     "category_name": "S.H.A.R.K.S.",
     "icon": "sharks.webp",
     "events": [
       {
-        "id": 1,
+        "id": 0,
         "title": "The Frugal Entrepreneurs",
-        "tag": "Time to Boost your productive and innovative mind",
+        "desc": "Time to Boost your productive and innovative mind",
         "icon": "/icons/frugalentrepreneur.webp",
         "price": "",
         "team_size": 1,
+        "contact_person": "Yashaswi Makwana",
+        "contact_number": 9586840317,
         "rounds": [
           {
-            "id": 1,
+            "id": 0,
             "title": "SMARTICUS",
             "description": "Questions will be provided for QUICK aptitude test based on industrial questions. Participants will have to answer in given time limit, and if unable to do so, they will be directly eliminated."
           },
           {
-            "id": 2,
+            "id": 1,
             "title": "FUMING INNOVATION",
             "description": "The group with the best blueprint or layout according to the data will be selected for the next round"
           },
           {
-            "id": 3,
+            "id": 2,
             "title": "SHARK TANK",
             "description": "The winner will be decided based on the ability of presentation and analytical skills"
           }
         ]
       },
       {
-        "id": 2,
+        "id": 1,
         "title": "The decryptive hub",
-        "tag": "A hub of technical and commercial dexterity",
+        "desc": "A hub of technical and commercial dexterity",
         "icon": "/icons/decryptivehub.webp",
         "price": "",
         "team_size": 1,
+        "contact_person": "Yashaswi Makwana",
+        "contact_number": 9586840317,
         "rounds": [
           {
-            "id": 1,
+            "id": 0,
             "title": "McQuicFace",
             "description": "This is Q/A based round where participants will face aptitude and technical questions along with jumbled words and crosswords"
           },
           {
-            "id": 2,
+            "id": 1,
             "title": "Bid to Twig",
             "description": "round where each team have to decrypt password of 4 google drive. Hints will given for decrypting the drive"
           },
           {
-            "id": 3,
+            "id": 2,
             "title": "Reppo-D-Event",
             "description": "Participants have to implement their analytical skills. It’s an individual round where participants need to prepare report about any four tech events held in our college campus"
           }
@@ -705,202 +731,202 @@
     ]
   },
   {
-    "id": 10,
+    "id": 9,
     "category_name": "Funtastic",
     "icon": "funtastic.webp",
     "events": [
       {
-        "id": 1,
+        "id": 0,
         "title": "THE SINISTER'S TOWN",
-        "tag": "",
+        "desc": "",
         "icon": "/icons/sinister.webp",
         "price": "₹50",
         "team_size": "1",
         "contact_person": "Jay Gadhavi",
-        "contact_phone": "9773072975",
+        "contact_number": "9773072975",
         "rounds": [
           {
-            "id": 1,
+            "id": 0,
             "title": "Murder Madness - Apne Andar Ka Manglu/Sherlock Jagao",
             "description": "Participants Will Be Shown A Series Of Videos In Which They Have To Find The Killer"
           },
           {
-            "id": 2,
+            "id": 1,
             "title": "Treasure Hunt : Ready Set Scavenge - Live,Laugh,Hunt",
             "description": "Qualified Participants Will Have To Make A Team For This Event. They'll Get Clues All Connected To Each Other. They Need To Find The Final Treasure For Qualifying To The Final Round"
           },
           {
-            "id": 3,
+            "id": 2,
             "title": "Murder In Manhattan - A Dance With Death / Khooni Saya SVIT Mai",
             "description": "The Final Event - The Manhattan Murder Mystery. Does Your Team Have What It Takes To Solve This Mystery And Be The Ultimate Detective/Winner"
           }
         ]
       },
       {
-        "id": 2,
+        "id": 1,
         "title": "SPRING TIME NOSTALGIA",
         "icon": "/icons/springtime.webp",
-        "tag": "",
+        "desc": "",
         "price": "₹50",
         "team_size": "1",
         "contact_person": "DHARMIL PAREKH",
-        "contact_phone": "9328755315",
+        "contact_number": "9328755315",
         "rounds": [
           {
-            "id": 1,
+            "id": 0,
             "title": "Cartoon Quest",
             "description": "In this round participants (Individual) will have to guess the cartoon based on the clues (pics/sound) showed to them."
           },
           {
-            "id": 2,
+            "id": 1,
             "title": "Kicking It",
             "description": "In this round participants (DUO) will be provided balloons & they will compete with their opponents. Last one to survive will move to next round."
           },
           {
-            "id": 3,
+            "id": 2,
             "title": "Trust Issue",
             "description": ""
           },
           {
-            "id": 4,
+            "id": 3,
             "title": "Ludo",
             "description": "As the name itself suggests it will be a game of ludo but with some twists. So first team to complete wins the Prize."
           }
         ]
       },
       {
-        "id": 3,
+        "id": 2,
         "title": "FRIENDS",
         "icon": "/icons/friends.webp",
-        "tag": "",
+        "desc": "",
         "price": "₹60",
         "team_size": "4",
         "contact_person": "SIDDHARTH PATEL",
-        "contact_phone": "9909416636",
+        "contact_number": "9909416636",
         "rounds": [
           {
-            "id": 1,
+            "id": 0,
             "title": "Friendly Feud",
             "description": "question will be asked and their answers will be judged on basis of google top 10 results."
           },
           {
-            "id": 2,
+            "id": 1,
             "title": "Friendly fire",
             "description": "on red light players have to throw as many pingpong balls in cup when light turns green they have to stop throwing."
           },
           {
-            "id": 3,
+            "id": 2,
             "title": "Unfriend",
             "description": "Questions will be asked and team with correct answer has to pickup a box if it contains prize money that team wins if it doesn't this process willl be repeated."
           }
         ]
       },
       {
-        "id": 4,
+        "id": 3,
         "title": "CINEPOLIS",
-        "tag": "",
+        "desc": "",
         "icon": "/icons/cinepolis.webp",
         "price": "₹50",
         "team_size": "1-2",
         "contact_person": "YASH PATEL",
-        "contact_phone": "9484462135",
+        "contact_number": "9484462135",
         "rounds": [
           {
-            "id": 1,
+            "id": 0,
             "title": "Movie Mania",
             "description": "This is a scribble round were there will be movie names in form of emoji's."
           },
           {
-            "id": 2,
+            "id": 1,
             "title": "Quest for Heros",
             "description": "In this round each group has to form a circle and every participant will be given a balloon and they have to write their name on it.Music will be played and participant will move the balloons in circle when the music stops ,participant has to pop the balloon, every balloon has a chit inside it with names of heroes and villain, First person sitting in the circle will get a dice and whatever number comes on it. that balloon will be popped.People who pop the balloon with names of villain on it, will be eliminated."
           },
           {
-            "id": 3,
+            "id": 2,
             "title": "End Game",
             "description": "This round is a \"TREASURE HUNT\" round where participants have to find six Infinity stones by clues provided to you, in which the hint of last stone will be same for all, and the first one to find and bring will be the winner."
           }
         ]
       },
       {
-        "id": 5,
+        "id": 4,
         "title": "THE UNDERDODGE",
-        "tag": "",
+        "desc": "",
         "icon": "/icons/underdoge.webp",
         "price": "₹50",
         "team_size": "5",
         "contact_person": "ketul jagtap",
-        "contact_phone": "9328957627",
+        "contact_number": "9328957627",
         "rounds": [
           {
-            "id": 1,
+            "id": 0,
             "title": "Elimination Round",
             "description": "5-5 teams will be formed"
           },
           {
-            "id": 2,
+            "id": 1,
             "title": "The Shield Dodge",
             "description": "2 shield will be given to two random players from the team to defend themselves."
           },
           {
-            "id": 3,
+            "id": 2,
             "title": "Defend If You Can",
             "description": "1 shield will be given to two random players from the team to defend themselves."
           }
         ]
       },
       {
-        "id": 6,
+        "id": 5,
         "title": "MEMEVERSE",
-        "tag": "",
+        "desc": "",
         "icon": "/icons/memeverse.webp",
         "price": "₹70",
         "team_size": "1",
         "contact_person": "Nandaja Nair",
-        "contact_phone": "9099574327",
+        "contact_number": "9099574327",
         "rounds": [
           {
-            "id": 1,
+            "id": 0,
             "title": "MemeVaganza - Aao thodi Dialogue Baazi Karein",
             "description": "20 templates will be provided to the participants,they will have to guess the famous dialogues"
           },
           {
-            "id": 2,
+            "id": 1,
             "title": "Memeflix",
             "description": "Paricipants have to guess the memes based on audio that will be proivided, 30 participants will be selected for the next round."
           },
           {
-            "id": 3,
+            "id": 2,
             "title": "Meme Charades",
             "description": " This Is A Duo Round In Which Participants Will Need To Complete A Specific Task In Order To Get A Meme Template About Which They Have Act It Out To Their Teammate"
           },
           {
-            "id": 4,
+            "id": 3,
             "title": "Meme It",
             "description": "6 participants will be selected for this round and they will be provided 3 templates and a theme(any current issue) and they have to create 3 memes based on the theme"
           }
         ]
       },
       {
-        "id": 7,
+        "id": 6,
         "title": "DARK STRIKE",
         "icon": "/icons/darkstrike.webp",
-        "tag": "",
+        "desc": "",
         "price": "₹70",
         "team_size": "1",
         "contact_person": "Ramakrishnan Iyer",
-        "contact_phone": "7016327917",
+        "contact_number": "7016327917",
         "rounds": []
       },
       {
-        "id": 8,
+        "id": 7,
         "title": "BIG BOSS",
         "icon": "/icons/bigboss.webp",
-        "tag": "",
+        "desc": "",
         "price": "₹60",
         "team_size": "2",
         "contact_person": "Mihir Manjani",
-        "contact_phone": "7016972550",
+        "contact_number": "7016972550",
         "rounds": []
       }
     ]

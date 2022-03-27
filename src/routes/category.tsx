@@ -1,18 +1,27 @@
-import { Container, Heading, SimpleGrid } from "@chakra-ui/react";
+import { Box, Container, Heading, SimpleGrid } from "@chakra-ui/react";
 import EventCard from "../components/event";
 import EVENTS from "../events.json";
 import { dashify } from "../utils";
 
-export default function CategoryPage({ category }: { category: string }) {
-	const currentEvent = EVENTS?.find(
-		c => dashify(c.category_name) === category
+export default function CategoryPage({
+	categoryName,
+}: {
+	categoryName: string;
+}) {
+	const category = EVENTS?.find(
+		c => dashify(c.category_name) === categoryName
 	);
 
 	return (
-		<>
-			<Container maxW='container.xl' pt='72px' pb='12'>
+		<Box>
+			<Container
+				minH='calc(100vh - 114px)'
+				maxW='container.xl'
+				pt='72px'
+				pb='12'
+			>
 				<Heading textAlign='center' mb='6'>
-					{currentEvent?.category_name}
+					{category?.category_name}
 				</Heading>
 				<SimpleGrid
 					//   flexWrap={"wrap"}
@@ -25,19 +34,16 @@ export default function CategoryPage({ category }: { category: string }) {
 					spacingY='6'
 				>
 					{EVENTS &&
-						currentEvent?.events.map(ele => {
+						category?.events.map(event => {
 							return (
 								<EventCard
-									title={ele.title}
-									// @ts-ignore
-									description={ele?.tag}
-									// @ts-ignore
-									icon={ele?.icon}
+									eventId={event.id}
+									categoryId={category.id}
 								/>
 							);
 						})}
 				</SimpleGrid>
 			</Container>
-		</>
+		</Box>
 	);
 }
