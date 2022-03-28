@@ -922,12 +922,28 @@
         "id": 7,
         "title": "BIG BOSS",
         "icon": "/icons/bigboss.webp",
-        "desc": "",
+        "desc": "Let your Intelligence have Fun!",
         "price": "₹60",
         "team_size": "2",
         "contact_person": "Mihir Manjani",
         "contact_number": "7016972550",
-        "rounds": []
+        "rounds": [
+          {
+            "id": 0,
+            "title": "ALPHABETIZE THE CUPS",
+            "description": "This round is physical and concentration skills. Participants will perform this round at their specific table which is allotted to them. Two Duos  will have to compete against each other and arrange the cups in alphabetical order from A to Z. The First duo to arrange the cups correctly will qualify further . "
+          },
+          {
+            "id": 1,
+            "title": "Paper ke parinde",
+            "description": "Participants will be given a set of papers, They will have to make paper planes and pass it through the circular ring in the given time. Elimination will be based on number of paper passed through by one duo in given time limit."
+          },
+          {
+            "id": 2,
+            "title": "BUCKET TWIST",
+            "description": "Twister is a game of physical skill. It is played on a large plastic mat that is spread on the floor or ground. The mat has six rows of large colored circles on it with a different color in each row: red, yellow, green, and blue. THE LAST ONE STANDING IN THE TWISTER GAME WILL BE THE WINNER OF BIG BOSS."
+          }
+        ]
       }
     ]
   }
