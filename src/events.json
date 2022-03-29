@@ -746,18 +746,18 @@
         "contact_number": "9773072975",
         "rounds": [
           {
-            "id": 0,
-            "title": "Murder Madness - Apne Andar Ka Manglu/Sherlock Jagao",
+            "id": 1,
+            "title": "The Killer Among Us",
             "description": "Participants Will Be Shown A Series Of Videos In Which They Have To Find The Killer"
           },
           {
-            "id": 1,
-            "title": "Treasure Hunt : Ready Set Scavenge - Live,Laugh,Hunt",
-            "description": "Qualified Participants Will Have To Make A Team For This Event. They'll Get Clues All Connected To Each Other. They Need To Find The Final Treasure For Qualifying To The Final Round"
+            "id": 2,
+            "title": "King’s Game",
+            "description": "Participants Will Be Paired Up In Duos And Will Be Given Some Tasks Which They’ll Need To Complete Within The Time Limit To Qualify For The Final Round"
           },
           {
-            "id": 2,
-            "title": "Murder In Manhattan - A Dance With Death / Khooni Saya SVIT Mai",
+            "id": 3,
+            "title": "Murder In Manhattan",
             "description": "The Final Event - The Manhattan Murder Mystery. Does Your Team Have What It Takes To Solve This Mystery And Be The Ultimate Detective/Winner"
           }
         ]
@@ -773,22 +773,22 @@
         "contact_number": "9328755315",
         "rounds": [
           {
-            "id": 0,
+            "id": 1,
             "title": "Cartoon Quest",
             "description": "In this round participants (Individual) will have to guess the cartoon based on the clues (pics/sound) showed to them."
           },
           {
-            "id": 1,
-            "title": "Kicking It",
-            "description": "In this round participants (DUO) will be provided balloons & they will compete with their opponents. Last one to survive will move to next round."
-          },
-          {
             "id": 2,
-            "title": "Trust Issue",
-            "description": ""
+            "title": "Tremble and save",
+            "description": "In this round participants (DUO) will be tied with chair (one member) and other will compete with the opponents and perform certain task and will try to release their partner first. "
           },
           {
             "id": 3,
+            "title": "Trust Issue",
+            "description": "In this round participants (Duo) will perform a task, where one will be blind folded & other will guide him/her to get to finish line avoiding obstacles. But the callouts would have twists."
+          },
+          {
+            "id": 4,
             "title": "Ludo",
             "description": "As the name itself suggests it will be a game of ludo but with some twists. So first team to complete wins the Prize."
           }
@@ -805,19 +805,19 @@
         "contact_number": "9909416636",
         "rounds": [
           {
-            "id": 0,
+            "id": 1,
             "title": "Friendly Feud",
             "description": "question will be asked and their answers will be judged on basis of google top 10 results."
           },
           {
-            "id": 1,
+            "id": 2,
             "title": "Friendly fire",
-            "description": "on red light players have to throw as many pingpong balls in cup when light turns green they have to stop throwing."
+            "description": "teams which clear round 1 will play these game. One team will play at a time, Participants need to toss the balls in synthetic paper cups in limited time."
           },
           {
-            "id": 2,
+            "id": 3,
             "title": "Unfriend",
-            "description": "Questions will be asked and team with correct answer has to pickup a box if it contains prize money that team wins if it doesn't this process willl be repeated."
+            "description": "the final round will be played by 4 teams and it will consist of two parts. 12 questions will be asked to 4 teams. If a team answers the question correctly them one of the team member has to select one of the 3 glasses containing diff points .these will continue for 12 questions and two teams will advance in the final round which contains a hidden task which will remain unspecified. Only one team will emerge victorious."
           }
         ]
       },
@@ -832,17 +832,17 @@
         "contact_number": "9484462135",
         "rounds": [
           {
-            "id": 0,
+            "id": 1,
             "title": "Movie Mania",
-            "description": "This is a scribble round were there will be movie names in form of emoji's."
+            "description": "This is a scribble round where there will be movie names in form of emoji's. Participants have to solve the set of questions within a certain time limit. The participants with most correct answers will be advanced to the next round."
           },
           {
-            "id": 1,
+            "id": 2,
             "title": "Quest for Heros",
             "description": "In this round each group has to form a circle and every participant will be given a balloon and they have to write their name on it.Music will be played and participant will move the balloons in circle when the music stops ,participant has to pop the balloon, every balloon has a chit inside it with names of heroes and villain, First person sitting in the circle will get a dice and whatever number comes on it. that balloon will be popped.People who pop the balloon with names of villain on it, will be eliminated."
           },
           {
-            "id": 2,
+            "id": 3,
             "title": "End Game",
             "description": "This round is a \"TREASURE HUNT\" round where participants have to find six Infinity stones by clues provided to you, in which the hint of last stone will be same for all, and the first one to find and bring will be the winner."
           }
@@ -856,20 +856,20 @@
         "price": "₹50",
         "team_size": "5",
         "contact_person": "ketul jagtap",
-        "contact_number": "9328957627",
+        "contact_number": "9328957627", 
         "rounds": [
           {
-            "id": 0,
+            "id": 1,
             "title": "Elimination Round",
-            "description": "5-5 teams will be formed"
+            "description": "4-4 teams will be formed"
           },
           {
-            "id": 1,
+            "id": 2,
             "title": "The Shield Dodge",
             "description": "2 shield will be given to two random players from the team to defend themselves."
           },
           {
-            "id": 2,
+            "id": 3,
             "title": "Defend If You Can",
             "description": "1 shield will be given to two random players from the team to defend themselves."
           }
@@ -886,24 +886,24 @@
         "contact_number": "9099574327",
         "rounds": [
           {
-            "id": 0,
-            "title": "MemeVaganza - Aao thodi Dialogue Baazi Karein",
+            "id": 1,
+            "title": "MemeVaganza",
             "description": "20 templates will be provided to the participants,they will have to guess the famous dialogues"
           },
           {
-            "id": 1,
-            "title": "Memeflix",
-            "description": "Paricipants have to guess the memes based on audio that will be proivided, 30 participants will be selected for the next round."
-          },
-          {
             "id": 2,
-            "title": "Meme Charades",
-            "description": " This Is A Duo Round In Which Participants Will Need To Complete A Specific Task In Order To Get A Meme Template About Which They Have Act It Out To Their Teammate"
+            "title": "Memeflix",
+            "description": "Paricipants have to guess the memes based on audio that will be provided. They have to select the best suited meme which will be provided to them as a Multiple choice question."
           },
           {
             "id": 3,
+            "title": "Meme Charades",
+            "description": "This is a duo round where participants will be given a specific task to perform, performing which they will be given a meme template which they will have to enact and their teammate has to guess it and both the team members have to complete the task turn by turn."
+          },
+          {
+            "id": 4,
             "title": "Meme It",
-            "description": "6 participants will be selected for this round and they will be provided 3 templates and a theme(any current issue) and they have to create 3 memes based on the theme"
+            "description": "Participants will be selected for this round and they will be provided 3 templates and a theme(any current issue) and they have to create 3 memes based on the theme"
           }
         ]
       },
@@ -916,7 +916,23 @@
         "team_size": "1",
         "contact_person": "Ramakrishnan Iyer",
         "contact_number": "7016327917",
-        "rounds": []
+        "rounds": [
+          {
+            "id": 1,
+            "title": "Mind Your Step",
+            "description": "In the dark room all participants have to correctly reach a particular tile yelled by the host by jumping only."
+          },
+          {
+            "id": 2,
+            "title": "Pro - Tron",
+            "description": "The first 5 Participants who finds  the 5 +ve balls (one for each)  out of 30 -ve balls qualify for the final round."
+          },
+          {
+            "id": 3,
+            "title": "Strike On Site",
+            "description": "Dodge ball in Dark room , one participant have to hit the others while they run (turn by turn) .The one who scores the maximum hits in limited time will win."
+          }
+        ]
       },
       {
         "id": 7,
@@ -929,17 +945,17 @@
         "contact_number": "7016972550",
         "rounds": [
           {
-            "id": 0,
+            "id": 1,
             "title": "ALPHABETIZE THE CUPS",
             "description": "This round is physical and concentration skills. Participants will perform this round at their specific table which is allotted to them. Two Duos  will have to compete against each other and arrange the cups in alphabetical order from A to Z. The First duo to arrange the cups correctly will qualify further . "
           },
           {
-            "id": 1,
+            "id": 2,
             "title": "Paper ke parinde",
             "description": "Participants will be given a set of papers, They will have to make paper planes and pass it through the circular ring in the given time. Elimination will be based on number of paper passed through by one duo in given time limit."
           },
           {
-            "id": 2,
+            "id": 3,
             "title": "BUCKET TWIST",
             "description": "Twister is a game of physical skill. It is played on a large plastic mat that is spread on the floor or ground. The mat has six rows of large colored circles on it with a different color in each row: red, yellow, green, and blue. THE LAST ONE STANDING IN THE TWISTER GAME WILL BE THE WINNER OF BIG BOSS."
           }
