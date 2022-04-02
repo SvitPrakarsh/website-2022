@@ -9,6 +9,7 @@ import {
 import EventCategoryCard from "../components/event-category";
 import Hero from "../components/hero";
 import Team from "../components/Team";
+import Sponsors from "../components/Sponsors";
 
 const Home = () => {
 	return (
@@ -94,6 +95,7 @@ const Home = () => {
 				</SimpleGrid>
 			</Container>
 
+			<Sponsors />
 			<Team />
 			{/* <Cyberintrusion/> */}
 		</>

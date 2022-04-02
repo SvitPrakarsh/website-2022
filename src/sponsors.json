@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "img": "Aone.svg"
+  },
+  {
+    "id": 2,
+    "img": "espi.svg"
+  },
+  {
+    "id": 3,
+    "img": "eva.svg"
+  },
+  {
+    "id": 4,
+    "img": "gate.svg"
+  },
+  {
+    "id": 5,
+    "img": "happyfaces.svg"
+  },
+  {
+    "id": 6,
+    "img": "icici.svg"
+  },
+  {
+    "id": 7,
+    "img": "ims.svg"
+  },
+  {
+    "id": 8,
+    "img": "kanan.svg"
+  },
+  {
+    "id": 9,
+    "img": "microhub.svg"
+  },
+  {
+    "id": 10,
+    "img": "red.svg"
+  },
+  {
+    "id": 11,
+    "img": "retro.svg"
+  },
+  {
+    "id": 12,
+    "img": "spark.svg"
+  }
+]
