@@ -546,7 +546,7 @@
         ]
       },
       {
-        "id": 2,
+        "id": 1,
         "title": "Rouven The Raven",
         "desc": "",
         "icon": "/icons/",
@@ -557,7 +557,7 @@
         "rounds": []
       },
       {
-        "id": 3,
+        "id": 2,
         "title": "Rocking Piston",
         "desc": "",
         "icon": "/icons/rockingpiston.webp",
@@ -568,7 +568,7 @@
         "rounds": []
       },
       {
-        "id": 4,
+        "id": 3,
         "title": "Soundphilia",
         "desc": "",
         "icon": "/icons/soundphilia.webp",
@@ -579,7 +579,7 @@
         "rounds": []
       },
       {
-        "id": 5,
+        "id": 4,
         "desc": "",
         "title": "Cloud Computing and Innovation",
         "icon": "/icons/cloudcomputing.webp",
@@ -590,7 +590,7 @@
         "rounds": []
       },
       {
-        "id": 6,
+        "id": 5,
         "title": "Microhub",
         "desc": "",
         "icon": "/icons/microhub.webp",
@@ -856,7 +856,7 @@
         "price": "₹50",
         "team_size": "5",
         "contact_person": "ketul jagtap",
-        "contact_number": "9328957627", 
+        "contact_number": "9328957627",
         "rounds": [
           {
             "id": 1,
